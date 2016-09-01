@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<channels> 
-
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] TEAM BLUE[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<fanart>http://s21.postimg.org/z1tzlwkbb/fanart.jpg</fanart>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] [/COLOR] TEAM BLUE [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<fanart></fanart>
 <thumbnail>http://s21.postimg.org/a7ahrtzh3/icon.png</thumbnail>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.teamblue/</jsonrpc>
 </item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Inspiration Live Tv [/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.inspiration/</jsonrpc>
+</item>
+
+
+
+<channels> 
+
+
 
 
 
