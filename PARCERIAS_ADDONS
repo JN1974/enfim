@@ -3,6 +3,14 @@
 
 <channels> 
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TEAM BLUE[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<fanart>http://s21.postimg.org/z1tzlwkbb/fanart.jpg</fanart>
+<thumbnail>http://s21.postimg.org/a7ahrtzh3/icon.png</thumbnail>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.teamblue/</jsonrpc>
+</item>
+
 
 
 <channel>
