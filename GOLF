@@ -2,17 +2,23 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/4298.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GOLF [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GOLF [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/si-moussa_errifi/startimes-2/1898.ts&amp;name=INSPIR@TION</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GOLF [COLOR red]•[/COLOR][COLOR white] OFF/ON [rtmp][/COLOR][/B]</title>
 <link>rtmp://31.220.40.63:1935/privatestream playpath=golf8?keys=zmbsoAoFT1FtYVt66VzRSw&keyt=1460720380 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=golf8&width=800&height=600</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png</thumbnail>
 </item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] NBCS Golf [COLOR red]•[/COLOR][/B]</title>
