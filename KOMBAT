@@ -5,7 +5,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://83.78.191.43:2025/</link>
-<thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
@@ -28,13 +28,13 @@
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 <accept>*/*; q=0.01</accept>
 </regex>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<thumbnail>https://static.filmon.com/theme/images/logo/filmon_facebook.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] UFC [/COLOR][COLOR red]•[/COLOR][COLOR white] [HTTP][/COLOR][/B]</title>
 <link>http://live-1112.la2.edge.filmon.com/live/713.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3ae2bd9eba83ce343dd824cc2e15ca497cd808cb09c6966f0b1a469099c9799db3a52ff01352839bfdd664760af75561c96d758aec40bda5cd7418bd404aace6e1ba665a57a4404df9ba713c6665ab784c8aa963dcf25b70203806eefe41f6aace921848574040c3da89d604c27ff95a7574cca33ad89a3b5</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<thumbnail>https://static.filmon.com/theme/images/logo/filmon_facebook.png</thumbnail>
 </item>
 
 
@@ -67,14 +67,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
-<thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
-<fanart>http://s32.postimg.org/5adah9csl/box1.png</fanart>
-<referer></referer>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Боец [COLOR red]•[/COLOR][/B]</title>
-<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<referer></referer>
 </item>
 
