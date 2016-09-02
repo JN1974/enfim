@@ -4,7 +4,6 @@
 
 
 
-
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -176,7 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <item>
 <title>[COLOR olive][B]****[COLOR white] LIGAS EUROPEIAS [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
 <link>http://chupamos.com</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
 </item>
 
 
@@ -629,9 +628,4 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Боец [COLOR red]•[/COLOR][COLOR white]  [RU][/COLOR][/B]</title>
-<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
-<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
-</item>
 
