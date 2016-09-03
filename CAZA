@@ -11,6 +11,11 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/804.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/338.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
+</item>
 
 
 <item>
@@ -36,6 +41,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/1611.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CAZA E PESCA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/192.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
