@@ -307,7 +307,6 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 
-
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
@@ -333,6 +332,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+
 
 
 <item>  
@@ -492,7 +492,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
-<link>http://92.222.205.40:8085/lighd</link>
+<link>http://46.105.161.243:8085/lighd</link>
 <thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
 </item>
 
