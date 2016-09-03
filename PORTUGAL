@@ -153,6 +153,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TVI FICÇAO[COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/23.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] TVI FICÇAO[COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
