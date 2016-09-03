@@ -4,7 +4,6 @@
 
 
 
-
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -55,76 +54,6 @@
 </item>
 
 
-
-<item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] WIZHDSPORTS [COLOR red]•[/COLOR] [COLOR white]  [/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param2][/COLOR][COLOR white]-[/COLOR][COLOR white]-[/COLOR][COLOR green][makelist.param1][/COLOR]</title>
-  <link>$doregex[makelist2]</link>
-  <referer>http://wizhdsports.com</referer>
-]]></listrepeat>
-<expres><![CDATA[(?s)class="match".+?class="name">\s*(.+?)\s*<.*?margin.*?>([\d:\s-]+).+?channel.+?>(.+?)<script]]></expres>
-<page>http://wizhdsports.to</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://wizhdsports.to/images/wiz.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</fanart>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-        <title>[COLOR blue]Stream [makelist2.param1][/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-]]></listrepeat>
-<expres><![CDATA[(?s)float:left.{4,10}href.+?Stream\s*(\d+)\s*<\/a]]></expres>
-<page>[makelist.param3]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m, param=''):
-       
-        import requests
-        import re
-        import base64
-       
-        try:
-               
-                id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
-                url = 'http://bro.adca.st/stream.php?id=' + id + '&width=640&height=480'
-                headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://wizhdsports.com/live/stream20.php'}
-                source = requests.get(url, headers = headers)
-                curl = re.findall('curl = "(.*?)"', source.text)[0]
-                m3u8 = base64.b64decode(curl)
-
-                url2 = 'http://bro.adca.st/getToken.php'   
-                headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
-                source2 = requests.get(url2, headers = headers2)
-                token = re.findall('"token":"(.*?)"', source2.text)[0]
-
-                return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
-
-        except Exception as e:
-                print 'wizhdsports: Error: '
-                if hasattr(e, 'code'):
-                        print str(e.code)             
-                if hasattr(e, 'reason'):
-                        print " " + str(e.reason)
-]]></expres>
-<page>http://wizhdsports.com/live/stream[makelist2.param1].php</page>
-<referer>http://wizhdsports.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 
 
@@ -491,10 +420,18 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
 <link>http://46.105.161.243:8085/lighd</link>
 <thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
+<link>http://199.229.252.131:1935/live/CC-8B9F4D5E-580C-310C-99BB-39288F8B7AE4-50258/chunklist_w1294875824.m3u8</link>
+<thumbnail>http://files.laliga.es/201402/855x481_06172611noticia-la-liga-tv.es.jpg</thumbnail>
+</item>
+
 
 
 <item>
@@ -621,13 +558,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT1 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
 <link>http://iptv36.sytes.net:8088/live/forki24/XDH5K7vgbE/74.ts</link>
-<thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT2 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
-<link>http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8</link>
 <thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
 </item>
 
