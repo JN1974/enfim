@@ -3,8 +3,8 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][COLOR white] OFF [/COLOR][/B]</title>
-<link>http://5.249.85.21:9981/stream/channelid/1778557490?ticket=2FA609581C1881CD64E8CACF3A819C4A642E4FD6&profile=pass</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][COLOR white] f4m [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/49.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
 </item>
 
@@ -58,6 +58,11 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/20.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+</item>
 
 <item>                        
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
@@ -83,6 +88,11 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
 <link>http://83.78.191.43:2085/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/83.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
