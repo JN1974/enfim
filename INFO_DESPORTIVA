@@ -58,11 +58,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title> 
-<link>rtmp://178.162.193.26/stream playPath=gareerga?id=27078&pk=9e51073eb331d4a9d350720b512bd4e19a13a5359ec6a42a3977013ab008e801 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,216 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/620/430</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
-</item>
 
 <item>                        
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
@@ -91,11 +86,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
-<link>rtmp://178.162.211.97/stream playPath=yameu?id=26818&pk=9e51073eb331d4a9d350720b512bd4e19a13a5359ec6a42a3977013ab008e801 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,216 pageUrl=http://www.liveflashplayer.net/embedplayer/yameu/1/620/430</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -128,6 +118,7 @@
 <referer>http://www.europeu2016.com
 </referer>
 </item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
