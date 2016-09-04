@@ -436,7 +436,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias Ligas Europeias][/COLOR][/B]</title>
 <link>http://46.105.161.243:8085/lighd</link>
 <thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
 </item>
@@ -496,10 +496,16 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://213.81.153.241/live001/channel028_p4.stream/DVR.m3u8</link>
-<thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DIEMA SPORT 1 [COLOR red]•[/COLOR][COLOR white] [BUL][/COLOR][/B]</title>
+<link>http://195.228.11.89:4080/udp/225.255.255.70:10000</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DIEMA SPORT 2 [COLOR red]•[/COLOR][COLOR white] [BUL][/COLOR][/B]</title>
+<link>http://130.185.232.92:1234/DiemaSp2.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -535,7 +541,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Eurosport 2 [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
-<link>http://www.sport24.pw/hls/Eurosport2.m3u8</link>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 <item>
@@ -593,4 +599,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
+
 
