@@ -53,19 +53,6 @@
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION [COLOR red]•[/COLOR][COLOR white] PLEXUL [/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[<title>[COLOR blue][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</item>
 
 
 
