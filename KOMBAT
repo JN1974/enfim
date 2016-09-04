@@ -52,7 +52,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/images/logo/filmon_facebook.png</thumbnail>
+<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
 </item>
 
 
