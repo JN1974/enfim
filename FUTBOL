@@ -3,7 +3,6 @@
 
 
 
-
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -26,8 +25,9 @@
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
 </item>
 
+
 <item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white] PLEXUL [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -53,7 +53,19 @@
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION [COLOR red]•[/COLOR][COLOR white] PLEXUL [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[<title>[COLOR blue][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</item>
 
 
 
@@ -229,13 +241,12 @@
 
 
 
+
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://83.78.191.43:2065/</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/51.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
-
-
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
@@ -243,9 +254,22 @@
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/si-moussa_errifi/startimes-2/1548.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1601.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1619.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/878.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+
+
 
 
 <item>
@@ -314,12 +338,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://83.78.191.43:2066/</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [RTMP] [/COLOR][/B]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
@@ -332,11 +350,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://83.78.191.43:2067/</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -366,11 +379,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://83.78.191.43:2008</link>
-<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/4239.ts&amp;name=INSPIR@TION</link>
@@ -425,12 +434,23 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR PARTIDAZO [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<link>http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png</thumbnail>
+</item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
 <link>http://199.229.252.131:1935/live/CC-8B9F4D5E-580C-310C-99BB-39288F8B7AE4-50258/chunklist_w1294875824.m3u8</link>
 <thumbnail>http://files.laliga.es/201402/855x481_06172611noticia-la-liga-tv.es.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<link>http://stream.zetatv.cf/pw/verliga5_14vrscl/chunklist.m3u8</link>
+<thumbnail>http://files.laliga.es/201402/855x481_06172611noticia-la-liga-tv.es.jpg</thumbnail>
+</item>
+
 
 
 
