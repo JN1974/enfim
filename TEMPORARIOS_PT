@@ -1,112 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<channels> 
 
-<item>
-<title>[COLOR red]****[COLOR blue] LISTAS PT & MIX [COLOR yellow] [F4M TESTER] [COLOR red]****[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.youtube.com</link>
+
+<channel>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA1 [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] CANAIS MIX & PT[COLOR salmon]  [/COLOR][/B]</title>
+<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
 <link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=55&amp;name=ZemTV-shani&amp;url=sss</jsonrpc>
-<thumbnail>http://s32.postimg.org/xz634w5c5/chk.png</thumbnail>
-<fanart></fanart>
-</item>
+<externallink>http://pastebin.com/raw/DrweJkmE</externallink>
+
+</channel>
 
 
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA1 [/COLOR][/B]</title>
-<title>PT Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Plus [makelist.param1]</link>
+<channel>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA2 [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>]]></listrepeat>
-<expres>#EXTINF:-1,PT_(.*?)\n(.*)(http.*).ts</expres>
-<page>http://www.q7t1.com:8000/get.php?username=sYKADDaJs2&amp;password=SnoQc6v4hZ&amp;type=m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-              <host>http://www.q7t1.com:8000</host>
-              <connection>1</connection>
-              <includeheaders>1<includeheaders/>
-              <buffer>20971520</buffer>
-</regex>
+<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw/Vfv978aG</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA3 [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA2 [/COLOR][/B]</title>
-<title>PT Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Plus [makelist.param1]</link>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>]]></listrepeat>
-<expres>#EXTINF:-1,PT:(.*?)\n(.*)</expres>
-<page>http://iptvfullhd.info:8000/get.php?username=chris28de&amp;password=TNKXmSgQSn&amp;type=m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT & MIX [COLOR salmon] LISTA3 [/COLOR][/B]</title>
-<title>PT Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Plus [makelist.param1]</link>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
-<page>http://ipro.newtvhd.com:8789/get.php?username=karimos&amp;password=test&amp;type=m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT & MIX [COLOR salmon] LISTA4 [/COLOR][/B]</title>
-<title>PT Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Plus [makelist.param1]</link>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
-<page>http://pro.leaderiptv.com:8000/get.php?username=silvanoferreira.sf@Alfa&amp;password=QeYnuV89H3&amp;type=m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw/u8pLb4XH</externallink>
+</channel>
 
 
