@@ -3,6 +3,11 @@
 
 
 
+
+
+
+
+
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -27,25 +32,25 @@
 
 
 <item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white] PLEXUL [/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION AGENDA | SCHEDULE [COLOR red]•[/COLOR][COLOR white] PLEXUL [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR green][makelist.param1][/COLOR] [COLOR gray][makelist.param2][/COLOR] [COLOR blue][makelist.param4][/COLOR][COLOR yellow] [makelist.param5][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LIVE TV PLEXUS - Arenavision</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/AV[makelist.param6]</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MACLINE+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
 <page>http://arenavision.in/agenda</page>
 <Agent>Mozilla</Agent>
 </regex>
@@ -64,7 +69,6 @@
 <thumbnail>http://goo.gl/vOG4SC</thumbnail>
 <fanart>http://goo.gl/vOG4SC</fanart>
 </item>
-
 
 
 
@@ -421,6 +425,18 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 
+<item>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] BT SPORT 1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-131</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://www.frocus.net/images/logotv/original/bt-sport-uk.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias Ligas Europeias][/COLOR][/B]</title>
@@ -432,17 +448,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR PARTIDAZO [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
 <link>http://stream.zetatv.cf/pw/partidazo_bb1r7mx/chunklist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
-<link>http://199.229.252.131:1935/live/CC-8B9F4D5E-580C-310C-99BB-39288F8B7AE4-50258/chunklist_w1294875824.m3u8</link>
-<thumbnail>http://files.laliga.es/201402/855x481_06172611noticia-la-liga-tv.es.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] La Liga Tv [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
-<link>http://stream.zetatv.cf/pw/verliga5_14vrscl/chunklist.m3u8</link>
-<thumbnail>http://files.laliga.es/201402/855x481_06172611noticia-la-liga-tv.es.jpg</thumbnail>
 </item>
 
 
@@ -586,4 +591,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
+
 
