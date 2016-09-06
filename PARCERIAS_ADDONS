@@ -16,3 +16,11 @@
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.Martunis/</jsonrpc>
 </item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Traquinas [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<thumbnail>http://s21.postimg.org/xh1qec5hz/icon.png</thumbnail>
+<fanart>http://s21.postimg.org/jyuu21tcn/fanart.jpg</fanart>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.traquinas/</jsonrpc>
+</item>
