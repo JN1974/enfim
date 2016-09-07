@@ -24,7 +24,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR red][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR green][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MACLINE+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIRATION[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -432,6 +432,23 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <title>[COLOR blue][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR blue]**** [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://</link>
 <thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT KLUB3 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/3.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT KLUB1 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/1.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT KLUB3 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/4.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
 </item>
 
 
