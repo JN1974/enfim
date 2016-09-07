@@ -18,6 +18,15 @@
 </item>
 
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] LiveStreamPro [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<thumbnail>http://s21.postimg.org/6morqdk2f/icon.png</thumbnail>
+<fanart>http://s21.postimg.org/5j4neezfb/fanart.jpg</fanart>
+<link>http://chupa.mos</link>
+<jsonrpc>plugin://plugin.video.live.streamspro/</jsonrpc>
+</item>
+
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Traquinas [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <thumbnail>http://s21.postimg.org/xh1qec5hz/icon.png</thumbnail>
 <fanart>http://s21.postimg.org/jyuu21tcn/fanart.jpg</fanart>
