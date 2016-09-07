@@ -15,12 +15,6 @@
 </item>
 
 
-<item> 
-<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title> 
-<link>http://fui.me</link> 
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-</item>
 
 
 <item>
@@ -49,6 +43,19 @@
 <thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
+
+
+
+
+
+
+<item> 
+<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title> 
+<link>http://fui.me</link> 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
+</item>
+
 
 
 
@@ -595,4 +602,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
+
 
