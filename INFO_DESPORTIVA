@@ -3,10 +3,16 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV [COLOR gold]+[/COLOR] [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/49.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV [COLOR gold]+[/COLOR] [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/675.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -146,3 +152,16 @@
 </item>
 
 
+
+<item>
+<title>[COLOR orange]LIVE TV ACESTREAM SPORTS[/COLOR][COLOR red] Plexus[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[<title>[COLOR deepskyblue][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
+</item>
