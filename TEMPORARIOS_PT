@@ -5,7 +5,7 @@
 
 
 <channel>
-<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA1 [/COLOR][/B]</name>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]1[/COLOR] [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
 <link>http://fui.me</link>
@@ -15,7 +15,7 @@
 
 
 <channel>
-<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA2 [/COLOR][/B]</name>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]2[/COLOR] [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
 <link>http://fui.me</link>
@@ -24,7 +24,7 @@
 
 
 <channel>
-<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA3 [/COLOR][/B]</name>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]3[/COLOR] [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
 <link>http://fui.me</link>
@@ -32,10 +32,17 @@
 </channel>
 
 <channel>
-<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA4 [/COLOR][/B]</name>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]4[/COLOR] [/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
 <link>http://fui.me</link>
 <externallink>http://pastebin.com/raw/J7109zqm</externallink>
 </channel>
 
+<channel>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]5[/COLOR] [/COLOR][/B]</name>
+<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
+<fanart>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw/k32asQPK</externallink>
+</channel>
