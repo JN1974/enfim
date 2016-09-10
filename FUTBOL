@@ -5,10 +5,32 @@
 
 
 
+
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
 <thumbnail></thumbnail>
+</item>
+
+
+
+
+<item> 
+<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title> 
+<link>http://fui.me</link> 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
+</item>
+
+
+
+
+<item>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] PAKTV SPORTS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
+<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
+<fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
 <item>
@@ -18,6 +40,7 @@
 <thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
+
 
 
 <item>
@@ -45,29 +68,6 @@
 </regex>
 <thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item> 
-<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title> 
-<link>http://fui.me</link> 
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-</item>
-
-
-
-
-<item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] PAKTV SPORTS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
-<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
-<fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
 <item>
@@ -215,7 +215,37 @@
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av8</page>
+<page>http://www.arenavision.in/av16</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av15</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av6</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
@@ -231,20 +261,6 @@
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av9</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
 
 
 
