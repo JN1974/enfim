@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<channels> 
+
 
 <channel>
 <name>[COLOR lime][B][COLOR red]•[/COLOR] FUTEBOL DIRECTO [COLOR red]•[/COLOR][/B]</name>
@@ -43,6 +45,6 @@
 <name>[COLOR lime][B][COLOR red]•[/COLOR] GOLF [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s21.postimg.org/pttxzudav/GOLF1.png</thumbnail>
 <externallink>http://goo.gl/i2Evca</externallink>
-<fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
+<fanart>http://s21.postimg.org/r6d2be21j/Sports_Alu_icon.png</fanart>
 <info>Canais de GOLF</info>
 </channel>
