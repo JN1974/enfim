@@ -5,20 +5,23 @@
 
 
 
-
-
-
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION AGENDA 1[COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title>
+<link>fuime</link>
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<thumbnail>http://tvron.net/static/canal/arenavision.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</item>
 
 
 <item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION AGENDA | SCHEDULE [COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION AGENDA 2[COLOR red]•[/COLOR][COLOR white] [LIVE] [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
