@@ -22,6 +22,14 @@
 </channel>
 
 
+<channel>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LIGAS EUROPEIAS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+<fanart>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>http://goo.gl/VwZpxZ</externallink>
+</channel>
+
 
 <channel>
 <name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] F1 | MOTOGP [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
@@ -55,3 +63,7 @@
 <fanart>http://s21.postimg.org/65rm47nx3/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </channel>
+
+
+
+
