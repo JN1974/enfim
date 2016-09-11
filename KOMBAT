@@ -2,17 +2,35 @@
 
 
 
+
+
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/94.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] KOM[COLOR red]B[/COLOR]AT SPORT [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/50.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/917.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FS2 [COLOR red] •[/COLOR][COLOR white] transmite UFC [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/933.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://3.bp.blogspot.com/-6r7Rq6QospY/VmK1wLUzt0I/AAAAAAAABss/kqJ8lM4PU9A/s1600/foxsports2-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UFC - WWE [/COLOR] [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/2400.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
-
-
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] UFC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UFC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -34,7 +52,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] BOXE [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] BOXE [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -60,31 +78,31 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] UFC [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UFC [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] PREMIERE COMBATE [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PREMIERE COMBATE [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.163.65.9:8081/live/combatez/playlist.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <referer></referer>
