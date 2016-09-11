@@ -102,19 +102,6 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/319.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Digi Sport4[/COLOR][/B]</title>
-<link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Idman Tv[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
