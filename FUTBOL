@@ -133,7 +133,6 @@
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
-
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
@@ -141,48 +140,13 @@
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
-
-
-<item>  
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<link>$doregex[get-rtmp]/privatestream/ app=privatestream/ playpath=$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
-<regex>
-<name>get-rtmp</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?streamname=fawergge'):
- 
- import requests
- import re
- 
- 
- source = requests.get(url)
- var_a = re.findall('var a = (.*?);', source.text)[0]
- var_b = re.findall('var b = (.*?);', source.text)[0]
- var_c = re.findall('var c = (.*?);', source.text)[0]
- var_d = re.findall('var d = (.*?);', source.text)[0]
- var_f = re.findall('var f = (.*?);', source.text)[0]
- 
- a= int(float(var_a))/int(float(var_f))
- b= int(float(var_b))/int(float(var_f))
- c= int(float(var_c))/int(float(var_f))
- d= int(float(var_d))/int(float(var_f))
- 
- rtmp = 'rtmp://' + str(a) + '.' + str(b) + '.' + str(c) + '.' + str(d)
- return rtmp
- 
- 
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>path</name>
-<expres>privatestream\/(.*?)';</expres>
-<page>http://privatestream.tv/player?streamname=fawergge</page>
-<referer>http://privatestream.tv/</referer>
-<agent></agent>
-</regex><thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.tvdesporto.info/sporttv3.php</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+
 
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -213,19 +177,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.sporttvsonline.net</referer>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -237,12 +188,19 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/73.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/342.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/342.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
+<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NVNlNkYQiXVe-R4M7-MO_g&keyt=1473628662 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
+<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 
@@ -267,12 +225,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
 <referer>http://flashplayer.com</referer>
-<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
-<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 
@@ -303,23 +255,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s21.postimg.org/uudhpaggn/Olympic_Channel.jpg</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SPORT KLUB [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/1.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SPORT KLUB1 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/3.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SPORT KLUB3 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://codeiptv.hopto.org:8000/live/test/pQJ1GLk1TU/4.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
-
 
 
 <item>
@@ -339,28 +274,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [FR][/COLOR][/B]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
 <thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Digi Sport1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Digi Sport2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Digi Sport3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Digi Sport4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 
 
@@ -404,6 +317,27 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 </item>
 
 <item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8</link>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8</link>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
+<link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport4 [COLOR red]•[/COLOR][/B]</title>
+<link>http://188.93.94.133/silk_sport4/index.m3u8</link>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Eurosport 1 [COLOR red]•[/COLOR][COLOR white] [UK][/COLOR][/B]</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
@@ -435,33 +369,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
 </item>
 
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://188.93.94.133/silk_sport4/index.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SPORT1 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
-<link>http://iptv36.sytes.net:8088/live/forki24/XDH5K7vgbE/74.ts</link>
-<thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Idman Tv [COLOR red]•[/COLOR][COLOR white] [AZE][/COLOR][/B]</title>
