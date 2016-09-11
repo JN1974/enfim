@@ -1,0 +1,154 @@
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LA LIGA [COLOR salmon]+[/COLOR] PREMIER LEAGUE [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LA LIGA [COLOR salmon]+[/COLOR] PREMIER LEAGUE [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av4</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FRENCH LIGUE1 [COLOR salmon]+[/COLOR] ITALIA SERIE A [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av11</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FRENCH LIGUE1 [COLOR salmon]+[/COLOR] ITALIA SERIE A [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av13</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] JOGOS VARIAS LIGAS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-75</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] BT SPORT 1 [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-131</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SKY SPORT 1 [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-74</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] JOGOS VARIAS LIGAS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-71</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] JOGOS VARIAS LIGAS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [ON-HORA JOGO] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-68</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PFC BRASIL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-36</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] ESPN BRASIL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [ON-HORA JOGO] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-243</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+</item>
+
+
+
+
