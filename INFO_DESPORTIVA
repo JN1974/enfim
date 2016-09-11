@@ -53,7 +53,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvprotuga.no-ip.biz:8000/live/tsubazachaulin/kodiiptv/11.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
 <item>                        
@@ -109,6 +109,12 @@
 </item>
 
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <fanart></fanart>                        
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>                
@@ -118,11 +124,6 @@
 </item>
 
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8</link>
-<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
