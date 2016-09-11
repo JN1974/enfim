@@ -14,6 +14,18 @@
 </item>
 
 <item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY SPORT4 [COLOR red]•[/COLOR][COLOR white] [SPORTDEVIL][/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-130</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-N-haVmxFcoA/UluIte7duaI/AAAAAAAAA5w/j7WGMf9HbxU/s1600/Sky+Sport+4+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GOLF [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/si-moussa_errifi/startimes-2/1898.ts&amp;name=INSPIR@TION</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png</thumbnail>
