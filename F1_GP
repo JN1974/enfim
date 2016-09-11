@@ -4,30 +4,6 @@
 
 
 
-<item>
-<title>[COLOR olive][B]****[COLOR white] DESPORTOS RADICAIS [COLOR red]  [COLOR olive]**** [/COLOR][/B]</title>
-<link>http://chupamos.com</link>
-<thumbnail>http://i.dmarge.com/2016/01/red-bull-adventurous-year-300x275.jpg</thumbnail>
-<fanart>http://i.dmarge.com/2016/01/red-bull-adventurous-year-300x275.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] FUEL TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/97.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.widemedia.tv/wp-content/uploads/2016/02/F_Logo_Yellow_CMYK-300x300.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] EXTREME SPORT [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226673/04.m3u8</link>
-<thumbnail>http://media.paperblog.fr/i/400/4008391/extreme-sport-channel-T-HULNBD.jpeg</thumbnail>
-</item>
 
 
 <item>
@@ -38,27 +14,24 @@
 </item>
 
 
+
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] EUROSPORT 2 [COLOR red]XTRA •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/90.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] EUROSPORT 2 [COLOR red]XTRA •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/53.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://motormais.pt/wp-content/uploads/2016/05/logo_Canal-Eurosport-2-Xtra.jpg</thumbnail>
 </item>
 
 
+
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOTORVISION [COLOR red][/COLOR] [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOTORVISION [COLOR red][/COLOR] [COLOR red]•[/COLOR][COLOR white] OFF [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/92.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV5 [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1161.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
@@ -97,47 +70,46 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/319.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
 
-
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport4[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Digi Sport4[/COLOR][/B]</title>
 <link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Idman Tv[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Idman Tv[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport2[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite W2C] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Arena Sport2[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite W2C] [/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8</link>
 <thumbnail>https://s3.amazonaws.com/movieicons/sports/arena+sports+2.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] AUTOMOTOTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] AUTOMOTOTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3</link>
 <thumbnail>http://www.ladakar.com/wp-content/uploads/2013/03/AUTOMOTOTV.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] DUBAY SPORTS [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] DUBAY SPORTS [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
 <link>http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/2n856xv.jpg</thumbnail>
 </item>
@@ -152,12 +124,39 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] DUBAY RACING [COLOR red]•[/COLOR][COLOR white] [corrida cavalos] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] DUBAY RACING [COLOR red]•[/COLOR][COLOR white] [corrida cavalos] [/COLOR][/B]</title>
 <link>http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/2n856xv.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] HORSE BRASIL[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] HORSE BRASIL[/COLOR][/B]</title>
 <link>rtmp://490636978.r.worldcdn.net/490636978/_definst_/ playpath=horsebrasil1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/horse-brasil-channel</link>
 <thumbnail>https://lh3.googleusercontent.com/E3PYrUYXpI6d1SCz-4evIlka5JXwV7qjJpccxtklNM7dGe_IV4_PGHtNPf8Am-WR6w=w300</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR olive][B]****[COLOR white] DESPORTOS RADICAIS [COLOR red]  [COLOR olive]**** [/COLOR][/B]</title>
+<link>http://chupamos.com</link>
+<thumbnail>http://i.dmarge.com/2016/01/red-bull-adventurous-year-300x275.jpg</thumbnail>
+<fanart>http://i.dmarge.com/2016/01/red-bull-adventurous-year-300x275.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FUEL TV [COLOR red]•[/COLOR][COLOR white] OFF [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/97.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.widemedia.tv/wp-content/uploads/2016/02/F_Logo_Yellow_CMYK-300x300.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] EXTREME SPORT [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226673/04.m3u8</link>
+<thumbnail>http://media.paperblog.fr/i/400/4008391/extreme-sport-channel-T-HULNBD.jpeg</thumbnail>
 </item>
