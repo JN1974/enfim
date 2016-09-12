@@ -17,6 +17,21 @@
 <thumbnail>http://s32.postimg.org/jozc13j7p/icon.png</thumbnail>
 </channel>
 
+<item>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] TRAQUINAS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.traquinas</jsonrpc>
+<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
+<fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
+</item>
+
+<channel>
+<name>[COLOR gold][B][COLOR red]•[/COLOR] TESTES [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</name>
+<externallink>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</externallink>
+<thumbnail>http://s21.postimg.org/7cc3sxxhz/ovelha.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
 
 <channel>
 <name>[COLOR gold][B][COLOR red]•[/COLOR] A OVELHA CHONÉ [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</name>
