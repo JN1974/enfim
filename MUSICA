@@ -46,10 +46,49 @@
 </item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MUSIC VOX TV  [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] BOX MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/tvpedia/images/9/95/Music_Box_(%D0%BF%D1%8F%D1%82%D0%BD%D0%B0).png/revision/latest?cb=20140303085013&path-prefix=ru</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] BOX MUSIC 2[COLOR red]•[/COLOR][/B]</title>
+<link>http://212.26.132.86/hls/mb_ua_2500.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/tvpedia/images/9/95/Music_Box_(%D0%BF%D1%8F%D1%82%D0%BD%D0%B0).png/revision/latest?cb=20140303085013&path-prefix=ru</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MUSIC VOX TV HD [COLOR red]•[/COLOR][/B]</title>
 <link>http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/2015/05/vox_tv_music_logo.jpg</thumbnail>
 </item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MUSIC VOX TV SD [COLOR red]•[/COLOR][/B]</title>
+<link>http://stream.smcloud.net/tv/vox/vox_360p/playlist.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/05/vox_tv_music_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MELODY CHANNEL [COLOR red]•[/COLOR][/B]</title>
+<link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SPIRIT TELEVISION [COLOR red]•[/COLOR][/B]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8</link>
+<thumbnail>http://www.newrokuchannels.com/wp-content/uploads/2014/01/253x190xRoku_Channels_2014_Spirit_Television.jpg.pagespeed.ic.ovCjdbQayN.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] INDIMUSIC  [COLOR red]•[/COLOR][/B]</title>
+<link>rtmp://indimusic.tulix.tv:1935/livemulti/Stream1.stream swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/indimusictv/index-multi2.php</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png</thumbnail>
+</item>
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] ESKA TV  [COLOR red]•[/COLOR][/B]</title>
 <link>http://stream.smcloud.net/live/eskatv/aylist.m3u8</link>
@@ -96,6 +135,20 @@
 <thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RADIO MONTECARLO [COLOR red]•[/COLOR][/B]</title>
+<link>http://wow01.105.net/live/rmc1/playlist.m3u8</link>
+<thumbnail>http://www.fancystreems.com/channelthumb/radiomontecarlo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MUZ TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8</link>
+<thumbnail>http://www.myvideo.az/v3_imgs/tv/tv_muztv_100.jpg</thumbnail>
+</item>
+
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] ATOMIC [COLOR red]•[/COLOR][/B]</title>
@@ -109,6 +162,12 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] HARDLIFE [COLOR red]•[/COLOR] [COLOR white] [/B][/COLOR]</title>
+<link>http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8</link>
+<thumbnail>http://tv-online.at.ua/1logo/1/HardLife_TV_2.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] REAL HIP HOP TV [COLOR red]•[/COLOR][/B]</title>
@@ -120,6 +179,22 @@
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
 <thumbnail>https://media.licdn.com/media/p/4/005/097/191/0d8cfc7.png</thumbnail>
 </item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Ocko Gold [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8</link>
+<thumbnail>http://a444.phobos.apple.com/us/r30/Purple/v4/2e/02/ed/2e02ed3b-0278-a5f0-b518-9bcbb0027c93/mzl.gjsfzjvd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] OTTO 8 FM TV[COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8</link>
+<thumbnail>http://www.ottofmtv.com/img/logo.png</thumbnail>
+</item>
+
+
+
 
 
 <item>
@@ -139,12 +214,25 @@
 <thumbnail>http://realjamaicantelevision.com/sites/default/files/retv_logo.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] AFRO MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8</link>
+<thumbnail>http://ttmusic.pt/wp-content/uploads/2015/04/AfroMusic-TT.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RETRO MUSIC [COLOR red]•[/COLOR][/B]</title>
 <link>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8</link>
 <thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42.jpeg</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] DOT DANCE [COLOR red]•[/COLOR][/B]</title>
+<link>http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8</link>
+<thumbnail>http://dotdance.tv/wp-content/uploads/2015/09/logo-400x400-on-Alpha.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Electro Sound Tv [COLOR red]•[/COLOR][/B]</title>
