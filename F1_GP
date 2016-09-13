@@ -24,8 +24,8 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOTORVISION [COLOR red][/COLOR] [COLOR red]•[/COLOR][COLOR white] OFF [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/92.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOTORVISION [COLOR red][/COLOR] [COLOR red]•[/COLOR][COLOR white] [GER] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2031.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png</thumbnail>
 </item>
 
@@ -36,6 +36,7 @@
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -78,7 +79,20 @@
 </item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/redson-errifi/startimes/1977.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/redson-errifi/startimes/1797.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
