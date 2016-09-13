@@ -277,84 +277,12 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias Ligas Europeias][/COLOR][/B]</title>
-<link>http://46.105.161.243:8085/lighd</link>
-<thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [FR][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [OFF][/COLOR][/B]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 <thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
 </item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [FR][/COLOR][/B]</title>
-<link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
-<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] DIEMA SPORT 1 [COLOR red]•[/COLOR][COLOR white] [BUL][/COLOR][/B]</title>
-<link>http://195.228.11.89:4080/udp/225.255.255.70:10000</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] DIEMA SPORT 2 [COLOR red]•[/COLOR][COLOR white] [BUL][/COLOR][/B]</title>
-<link>http://130.185.232.92:1234/DiemaSp2.m3u8</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://188.247.133.18:8888/ipvt_002</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Arena Sport2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Arena Sport5 [COLOR red]•[/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Silk Sport4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://188.93.94.133/silk_sport4/index.m3u8</link>
-<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Eurosport 1 [COLOR red]•[/COLOR][COLOR white] [UK][/COLOR][/B]</title>
@@ -389,11 +317,6 @@
 </item>
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Idman Tv [COLOR red]•[/COLOR][COLOR white] [AZE][/COLOR][/B]</title>
-<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
-<thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
-</item>
 
 
 
