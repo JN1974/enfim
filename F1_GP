@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY F1 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/443.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
@@ -88,6 +88,54 @@
 <link>http://latino-webtv.ml/pw/f1_b0xjnv5/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RaceLine Tv [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>$doregex[sxlink]</link>
+<regex>
+<name>sxlink</name>
+<expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+<page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+<referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept><cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<regex>
+<name>ch_id</name><expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+<page>https://www.filmon.com/tv/raceline-tv</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept>
+</includeheaders>
+</regex>
+<thumbnail>http://images.zap2it.com/assets/p8038537_b_h3_ab/raceline.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Motorz tv [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>$doregex[sxlink]</link>
+<regex>
+<name>sxlink</name>
+<expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+<page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+<referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept><cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<regex>
+<name>ch_id</name><expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+<page>https://www.filmon.com/tv/motorz</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept>
+</includeheaders>
+</regex>
+<thumbnail>https://lh5.googleusercontent.com/-N5yqGZVBu0U/AAAAAAAAAAI/AAAAAAAABAo/ec7Df50XxdE/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
 
 
 <item>
