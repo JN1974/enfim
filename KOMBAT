@@ -24,12 +24,12 @@
 </item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FS1 [COLOR red] •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FS1 [COLOR red] •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/934.ts&amp;name=INSPIR@TION</link>
 <thumbnail>https://pbs.twimg.com/profile_images/664177630720081920/GRftjRV6_400x400.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FS2 [COLOR red] •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FS2 [COLOR red] •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/CHARLES31/MART31/933.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://3.bp.blogspot.com/-6r7Rq6QospY/VmK1wLUzt0I/AAAAAAAABss/kqJ8lM4PU9A/s1600/foxsports2-logo.png</thumbnail>
 </item>
@@ -60,7 +60,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 <item>
@@ -82,7 +82,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
@@ -105,7 +105,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
@@ -129,7 +129,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
@@ -152,7 +152,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
@@ -178,7 +178,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://static.filmon.com/theme/img/filmon_small_logo.png</thumbnail>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 </item>
 
 
