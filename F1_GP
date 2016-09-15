@@ -11,7 +11,7 @@
 <link>http://chupamos.com</link>
 <thumbnail>http://s21.postimg.org/skhilmv2v/image.jpg</thumbnail>
 <fanart>http://s21.postimg.org/skhilmv2v/image.jpg</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -19,7 +19,7 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] EUROSPORT 2 [COLOR red]XTRA •[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/53.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://motormais.pt/wp-content/uploads/2016/05/logo_Canal-Eurosport-2-Xtra.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -27,7 +27,7 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOTORVISION [COLOR red][/COLOR] [COLOR red]•[/COLOR][COLOR white] [GER] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2031.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -44,7 +44,7 @@
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR green][B][COLOR red]•[/COLOR] FORMULA 1 |MOTOGP [COLOR red]•[/COLOR] [COLOR white][PLEXUS][/B][/COLOR]</title>
@@ -59,7 +59,7 @@
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -68,26 +68,31 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://latino-webtv.ml/pw/motogp_b0xk1e8/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY F1 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/443.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/188.m3u8</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
 <link>http://latino-webtv.ml/pw/f1_b0xjnv5/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -111,7 +116,7 @@
 </includeheaders>
 </regex>
 <thumbnail>http://images.zap2it.com/assets/p8038537_b_h3_ab/raceline.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
@@ -134,7 +139,7 @@
 </includeheaders>
 </regex>
 <thumbnail>https://lh5.googleusercontent.com/-N5yqGZVBu0U/AAAAAAAAAAI/AAAAAAAABAo/ec7Df50XxdE/s0-c-k-no-ns/photo.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -142,26 +147,26 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Idman Tv[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Arena Sport2[/COLOR] [COLOR red]•[/COLOR][COLOR white] [transmite W2C] [/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8</link>
 <thumbnail>https://s3.amazonaws.com/movieicons/sports/arena+sports+2.png</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] AUTOMOTOTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3</link>
 <thumbnail>http://www.ladakar.com/wp-content/uploads/2013/03/AUTOMOTOTV.png</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] DUBAY SPORTS [COLOR red]•[/COLOR][COLOR white] [transmite F1] [/COLOR][/B]</title>
 <link>http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/2n856xv.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
@@ -169,18 +174,18 @@
 <link>http://chupamos.com</link>
 <thumbnail>https://lh3.googleusercontent.com/E3PYrUYXpI6d1SCz-4evIlka5JXwV7qjJpccxtklNM7dGe_IV4_PGHtNPf8Am-WR6w=w300</thumbnail>
 <fanart>https://lh3.googleusercontent.com/E3PYrUYXpI6d1SCz-4evIlka5JXwV7qjJpccxtklNM7dGe_IV4_PGHtNPf8Am-WR6w=w300</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] DUBAY RACING [COLOR red]•[/COLOR][COLOR white] [corrida cavalos] [/COLOR][/B]</title>
 <link>http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/2n856xv.jpg</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] HORSE BRASIL[/COLOR][/B]</title>
 <link>rtmp://490636978.r.worldcdn.net/490636978/_definst_/ playpath=horsebrasil1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/horse-brasil-channel</link>
 <thumbnail>https://lh3.googleusercontent.com/E3PYrUYXpI6d1SCz-4evIlka5JXwV7qjJpccxtklNM7dGe_IV4_PGHtNPf8Am-WR6w=w300</thumbnail>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
