@@ -7,14 +7,12 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV [COLOR gold]+[/COLOR] [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/675.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] EUROSPORT NEWS [COLOR gold]+[/COLOR] [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/28.m3u8</link>
 <thumbnail>http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -22,75 +20,64 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] RTP3 [COLOR red]•[/COLOR][/B]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBuLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+red%5DRtp+info+v8%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_3_pt.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://164.132.168.234:8000/live/sYKADDaJs2/SnoQc6v4hZ/1123.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
-</item>
-<item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item><item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2053.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] TVI 24 [COLOR red]•[/COLOR][/B]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvprotuga.no-ip.biz:8000/live/tsubazachaulin/kodiiptv/11.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>                        
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail> 
 <sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
 <referer>http://www.tvdez.com/</referer>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>                        
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>                  
 <sportsdevil>http://www.europeu2016.net/index.php?canal=cmtv</sportsdevil>
 <referer>http://www.europeu2016.com</referer>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvprotuga.no-ip.biz:8000/live/tsubazachaulin/kodiiptv/59.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -106,21 +93,18 @@
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=abolatv</sportsdevil>
 <referer>http://www.europeu2016.com</referer>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <fanart></fanart>                        
@@ -128,21 +112,18 @@
 <sportsdevil>http://www.europeu2016.net/index.php?canal=portocanal</sportsdevil>
 <referer>http://www.europeu2016.com
 </referer>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Gol tv [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
 <link>http://goltv.exabytetv.info/hls2/amlst:30001_ios/master.m3u8</link>
 <thumbnail>http://www.goltv.tv/images/misc/goltv_logo.png</thumbnail>
-</item>
-
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
