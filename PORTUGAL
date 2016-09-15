@@ -6,6 +6,8 @@
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://logodatabases.com/wp-content/uploads/2012/05/Old-The-Weather-Channel-Logo.gif</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP 1 [COLOR red]•[/COLOR][COLOR white] [rtmp][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
@@ -196,20 +198,14 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI REALITY [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440</page>
-<referer>http://www.streamifyplayer.com</referer>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI REALITY [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                      
+<sportsdevil>http://www.europeu2016.net/index.php?canal=secretstory</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
 
 
 <item>
@@ -231,12 +227,7 @@
 <referer>http://www.sporttvsonline.com</referer>
 <info>...</info>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-<item>                        
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail> 
-<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
-<referer>http://www.tvdez.com/</referer>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 <item>                        
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
