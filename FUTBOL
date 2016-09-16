@@ -140,8 +140,7 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
 <link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/160.m3u8</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/urqtvs1436898824.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -149,9 +148,14 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/stream3-iptv/test12/1187.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2325.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1721.ts&amp;name=INSPIR@TION</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/urqtvs1436898824.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
+
+
 
 
 
@@ -241,8 +245,7 @@
 <sportsdevil>http://www.tvdesporto.info/sporttv5.php</sportsdevil>
 <referer>http://www.europeu2016.com</referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xvxrws1436898900.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
