@@ -56,7 +56,7 @@
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] FORMULA 1 |MOTOGP [COLOR red]•[/COLOR] [COLOR white][PLEXUS][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FORMULA1  [COLOR red]•[/COLOR] [COLOR salmon][AV11][/B][/COLOR]</title></title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -65,28 +65,19 @@
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+</item>
 
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] FORMULA 1 |MOTOGP [COLOR red]•[/COLOR] [COLOR white][PLEXUS][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av4</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FORMULA1 [COLOR red]•[/COLOR] [COLOR salmon][SOP4][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262493&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
+</item>
 
 
 
