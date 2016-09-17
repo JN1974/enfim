@@ -18,6 +18,23 @@
 </item>
 
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FILMS [COLOR red]•[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>http://s21.postimg.org/q3871upcn/icon.png</thumbnail>
+<fanart>http://s21.postimg.org/x564o1syf/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TV SHOWS [COLOR red]•[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
+<thumbnail>http://s21.postimg.org/q3871upcn/icon.png</thumbnail>
+<fanart>http://s21.postimg.org/x564o1syf/fanart.jpg</fanart>
+</item>
+
+
 
 
 
