@@ -2,9 +2,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-**************************************************************************************************************************
-
-
 
 
 
@@ -42,11 +39,10 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] TORRENTSTREAM SPORTS [COLOR white] [plugin] [/COLOR][COLOR red]•[/COLOR][/B]</title> 
-
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
-<listrepeat><![CDATA[<title>[COLOR green][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link><thumbnail></thumbnail>]]></listrepeat>
+<listrepeat><![CDATA[<title>[COLOR green][makelist.param1][/COLOR]</title><link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link>]]></listrepeat>
 <expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
 <page>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
@@ -160,6 +156,19 @@
 <name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
 <page>http://widestream.io/embed-71</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] JOGOS VARIAS LIGAS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR white] [ONLINE - HORA JOGO] [/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-67</page>
 <referer>http://widestream.io/</referer>
 </regex>
 <thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
