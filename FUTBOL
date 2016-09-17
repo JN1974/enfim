@@ -10,53 +10,13 @@
 
 
 
-
 **************************************************************************************************************************
 
 
 
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [AGENDA] [/COLOR][COLOR red](TIME ZONE +1 HORA)[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR yellow][makelist.param1][/COLOR] [COLOR blue][makelist.param2][/COLOR] [COLOR green][makelist.param3][/COLOR][COLOR gray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param4]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-</item>	
-]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PORTUGAL LIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
-<page>http://arenavision.in/agenda</page>
-<Agent>Mozilla</Agent>
-</regex>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
 
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV13][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av13</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV14][/B][/COLOR]</title>
@@ -136,7 +96,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/QF9yrOdW0c/v2mkyub70P/160.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
