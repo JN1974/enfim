@@ -11,40 +11,35 @@
 
 
 
-<item> 
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR white] [AGENDA] [/COLOR] [COLOR red]•[/COLOR][COLOR white] [plugin] [/COLOR][/B]</title> 
-<link>http://fui.me</link> 
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] ALL SPORTS LIVE [COLOR white] [AGENDA] [/COLOR][COLOR red]•[/COLOR][COLOR white] [plugin] [/COLOR][/B]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.vboxtv.com/wp-content/uploads/2014/07/live-sport-streaming.jpg</thumbnail>
-<fanart>http://www.vboxtv.com/wp-content/uploads/2014/07/live-sport-streaming.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] PAKTV SPORTS [COLOR white] [AGENDA] [/COLOR][COLOR red]•[/COLOR][COLOR white] [plugin][/COLOR][/B]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
-<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
-<fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
-</item>
-
-
-
-
 **************************************************************************************************************************
 
 
 
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [AGENDA] [/COLOR][COLOR red](TIME ZONE +1 HORA)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR yellow][makelist.param1][/COLOR] [COLOR blue][makelist.param2][/COLOR] [COLOR green][makelist.param3][/COLOR][COLOR gray] (Channel [makelist.param4])[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param4]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PORTUGAL LIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
 
 
 
@@ -137,17 +132,11 @@
 
 
 
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
-<link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/160.m3u8</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/urqtvs1436898824.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/QF9yrOdW0c/v2mkyub70P/160.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
@@ -209,7 +198,7 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
 <link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/158.m3u8</link>
-<thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/medium</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
 
@@ -217,7 +206,7 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/live/stv3.php</sportsdevil>
 <referer>http://hdfree.tv/</referer>
-<thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/medium</thumbnail>
+<thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
 
@@ -267,8 +256,6 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
-
-
 
 
 
