@@ -10,6 +10,7 @@
 
 
 
+
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR white] [AGENDA] [/COLOR] [COLOR red]•[/COLOR][COLOR white] [plugin] [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
@@ -40,7 +41,7 @@
 
 
 
-
+**************************************************************************************************************************
 
 
 
@@ -48,12 +49,12 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV13][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av16</page>
+<page>http://www.arenavision.in/av13</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
@@ -63,12 +64,12 @@
 </item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV14][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av15</page>
+<page>http://www.arenavision.in/av14</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
@@ -77,15 +78,44 @@
 </regex>
 </item>
 
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOPCAST][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262495&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV9][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOP5][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOP3][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
 
 
 
+
+**************************************************************************************************************************
 
 
 
