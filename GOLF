@@ -27,9 +27,12 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GOLF [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/si-moussa_errifi/startimes-2/1898.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/457.ts&amp;name=INSPIR@TION</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOVISTAR GOLF [COLOR red]•[/COLOR][COLOR white] OFF/ON [rtmp][/COLOR][/B]</title>
