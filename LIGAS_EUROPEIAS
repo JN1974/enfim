@@ -233,3 +233,77 @@
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] RIO Olimpyc Games [COLOR red]•[/COLOR][/B]</title>
+<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_6_3514000.m3u8</link>
+<thumbnail>http://s21.postimg.org/uudhpaggn/Olympic_Channel.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Snooker Legends [COLOR red]•[/COLOR][/B]</title>
+<link>$doregex[sxlink]</link>
+<regex>
+<name>sxlink</name>
+<expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+<page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+<referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept><cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<regex>
+<name>ch_id</name><expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+<page>https://www.filmon.com/tv/snooker-legends</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept>
+</includeheaders>
+</regex>
+<thumbnail>http://static.sportskeeda.com/wp-content/uploads/2015/01/ronnie-o-sullivan-pic-pa-1-1421398059.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [OFF][/COLOR][/B]</title>
+<link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
+<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Eurosport 1 [COLOR red]•[/COLOR][COLOR white] [UK][/COLOR][/B]</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Eurosport 2 [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Real Madrid [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] Versus Tv [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://s32.postimg.org/8w5i4vgxx/image.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] POKER CENTRAL [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] RED BULL TV [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
+<thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
+</item>
