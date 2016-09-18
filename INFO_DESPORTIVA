@@ -9,8 +9,8 @@
 <thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] EUROSPORT NEWS [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/28.m3u8</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] EUROSPORT NEWS [COLOR red]•[/COLOR][COLOR white] off [/COLOR][/B]</title>
+<link>http://</link>
 <thumbnail>http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -18,7 +18,10 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1720.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/787.ts&amp;name=INSPIR@TION</link>
+
+
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -55,6 +58,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvprotuga.no-ip.biz:8000/live/tsubazachaulin/kodiiptv/11.ts&amp;name=INSPIR@TION</link>
+<link>http://bit.ly/2cvXkFo</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -73,6 +77,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvprotuga.no-ip.biz:8000/live/tsubazachaulin/kodiiptv/59.ts&amp;name=INSPIR@TION</link>
+<link>http://bit.ly/2d3GuCS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -119,4 +124,5 @@
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
