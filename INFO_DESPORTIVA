@@ -14,6 +14,7 @@
 
 <title>[COLOR lime][B][COLOR red]•[/COLOR] EUROSPORT NEWS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/Fernando/Fernando/2247.ts&amp;name=INSPIR@TION</link>
+<link>http://109.196.70.53:1234/udp/224.0.45.169:1234</link>
 <thumbnail>http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
