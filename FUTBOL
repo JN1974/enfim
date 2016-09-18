@@ -137,7 +137,6 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
-<link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/159.m3u8</link>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
@@ -157,7 +156,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
-<link>http://iptvfree1.com:6969/live/QF9yrOdW0c/v2mkyub70P/158.m3u8</link>
+<link></link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
@@ -189,8 +188,10 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv5.php</sportsdevil>
 <sportsdevil>http://catlive.net/live-tv/17.php</sportsdevil>
 <sportsdevil>http://www.tvdesporto.info/sporttv5.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
 <referer>http://catlive.net/</referer>
 <referer>http://www.europeu2016.com</referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/xvxrws1436898900.png</thumbnail>
