@@ -21,6 +21,8 @@
 <referer>http://www.rtp.pt/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP 1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title> 
 <link>http//fui.me</link>
@@ -246,21 +248,16 @@
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CMTV [COLOR red]•[/COLOR][/B]</title>
-<fanart></fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
-<sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<info>...</info>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
 
 <item>                        
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>                  
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                                             
 <sportsdevil>http://www.europeu2016.net/index.php?canal=cmtv</sportsdevil>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<referer>http://www.sporttvsonline.com</referer>
 <referer>http://www.europeu2016.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail> 
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
@@ -285,6 +282,23 @@
 <link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
 <thumbnail>http://i.imgur.com/tiLO5Il.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV GLOBO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex><name>m3u8</name>
+<expres>file: '([^']*)</expres>
+<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=315&amp;width=640&amp;height=360&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/boboms.php?width=640&amp;height=360</referer>
+</regex><regex><name>page</name>
+<expres>file='([^']*)</expres>
+<page>http://ekostreams.co/ch/boboms.php?width=640&amp;height=360</page>
+</regex>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+</item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV GLOBO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
