@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] WEATHER CHANNEL [COLOR red]•[/COLOR][COLOR white]  Pedido (Jony usuario) [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] WEATHER CHANNEL [COLOR red]•[/COLOR][COLOR white]  Pedido (Jonny usuario) [/COLOR][/B]</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://logodatabases.com/wp-content/uploads/2012/05/Old-The-Weather-Channel-Logo.gif</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP 1 [COLOR red]•[/COLOR][COLOR white] [rtmp][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP 1 [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
@@ -52,7 +63,7 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [rtmp][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
@@ -66,11 +77,20 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
+<thumbnail>http://www.fremantlemedia.pt/sites/default/files/pictures/Logos/small/_sic.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sic</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.fremantlemedia.pt/sites/default/files/pictures/Logos/small/_sic.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -86,7 +106,15 @@
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://www.fremantlemedia.pt/sites/default/files/pictures/Logos/small/_sic.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 </regex>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC Noticias [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/sicnoticias/INSPIR@TION.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
@@ -111,22 +139,6 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC MULHER[COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10                       conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
-</regex>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC RADICAL[COLOR red]•[/COLOR][COLOR white] [OFF][/COLOR][/B]</title>
@@ -180,24 +192,6 @@
 </regex>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI FICÇAO[COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embedezcast.com/membedplayer/tvicrl/1/650/500</page>
-<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115</agent>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_ficcao_pt.png</thumbnail>
-</regex>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
 
 
 
@@ -210,12 +204,14 @@
 <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
 </regex><regex>
 <name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres><page>http://www.mipsplayer.com/membedplayer/ss6estreia/1/545/380</page>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mipsplayer.com/membedplayer/ss6estreia/1/545/380</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.mips.tv</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 
 
@@ -273,16 +269,32 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
+
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TCV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/rtc_teste/INSPIR@TION.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/squwqv1438186600.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] ARTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LISBOA [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
 <thumbnail>http://i.imgur.com/tiLO5Il.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SANTUÁRIO DE FÁTIMA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/santuario.stream/INSPIR@TION.m3u8</link>
+<thumbnail>http://www.lisbonemotions.com/files/fatima1.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV GLOBO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
@@ -295,7 +307,7 @@
 <expres>file='([^']*)</expres>
 <page>http://ekostreams.co/ch/boboms.php?width=640&amp;height=360</page>
 </regex>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 </item>
 
@@ -303,7 +315,7 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV GLOBO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://31.204.153.115:8081/live/globok/playlist.m3u8</link>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
@@ -633,6 +645,49 @@
 
 
 
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA AMOREIRA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA DA LUZ [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA MEIA PRAIA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA ALVOR [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA DA ROCHA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA DA GALÉ [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA VILAMOURA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8</link>
+<thumbnail>http://cdn.nexttv.sapo.pt/user/channels/e9/6e4/45872/logo49922765f37abf6339ee9cea86400ca8-200x200.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
