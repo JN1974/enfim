@@ -8,13 +8,14 @@
 
 
 
+
+
 <item> 
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR white] [AGENDA] [/COLOR] [COLOR red]•[/COLOR][COLOR white] [plugin] [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -42,8 +43,13 @@
 **************************************************************************************************************************
 
 
+
+
+
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BT SPORT 1 [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BT SPORT 1 [COLOR red]•[/COLOR][COLOR blue] [Liga NOS] [/COLOR][/B]</title>
 <sportsdevil>http://streamking.co/player?channel=btsport1&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=btsport1&type=p2p</referer>
 <thumbnail>http://img01.bt.co.uk/s/assets/010916/images/bt_sport_new_logo.png</thumbnail>
@@ -62,6 +68,22 @@
 <sportsdevil>http://streamking.co/player?channel=bteurope&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=bteurope&type=p2p</referer>
 <thumbnail>http://img01.bt.co.uk/s/assets/010916/images/bt_sport_new_logo.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] PREMIER SPORT [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=premiersport&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
+<thumbnail>http://www.loverugbyleague.com/_media/photo_915327.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SETANTA SPORTS [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=setantasport&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=setantasport&type=p2p</referer>
+<thumbnail>http://sportforbusiness.com/wp-content/uploads/setanta-sports-logo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
@@ -141,8 +163,15 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORT KLUB 1 [COLOR red]•[/COLOR][COLOR white] [Liga NOS] [/COLOR][/B]</title>
 <link>http://46.234.100.41:8080/sk1/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORT KLUB 1 [COLOR red]•[/COLOR][COLOR blue] [Liga NOS] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=sportklub&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=sportklub&type=p2p</referer>
+<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORT KLUB 2 [COLOR red]•[/COLOR][COLOR white] [Liga NOS] [/COLOR][/B]</title>
@@ -195,11 +224,42 @@
 </item>
 
 <item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SUPER SPORT 2 [COLOR red]•[/COLOR][COLOR blue]  [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=supersport2&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=supersport2&type=p2p</referer>
+<thumbnail>http://www.supersport.al/wp-content/uploads/2016/05/logo-ss.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SUPER SPORT 3 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://81.7.13.162/hls/ss3/index.m3u8</link>
 <thumbnail>http://www.supersport.al/wp-content/uploads/2016/05/logo-ss.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SUPER SPORT 3 [COLOR red]•[/COLOR][COLOR blue]  [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=supersport3&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=supersport3&type=p2p</referer>
+<thumbnail>http://www.supersport.al/wp-content/uploads/2016/05/logo-ss.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Футбол 1 [COLOR red]•[/COLOR][COLOR blue]  [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=football1ua&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=football1ua&type=p2p</referer>
+<thumbnail>http://2.bp.blogspot.com/-p8LAJTnczB8/UE-8uaF2EqI/AAAAAAAAM7Q/8fFi0KuGyzQ/s1600/Futbol+logo+2012.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Футбол 2 [COLOR red]•[/COLOR][COLOR blue]  [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=football2ua&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=football2ua&type=p2p</referer>
+<thumbnail>http://2.bp.blogspot.com/-p8LAJTnczB8/UE-8uaF2EqI/AAAAAAAAM7Q/8fFi0KuGyzQ/s1600/Futbol+logo+2012.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 
 
@@ -276,7 +336,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
