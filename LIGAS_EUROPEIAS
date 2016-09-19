@@ -42,7 +42,27 @@
 **************************************************************************************************************************
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BT SPORT 1 [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=btsport1&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=btsport1&type=p2p</referer>
+<thumbnail>http://img01.bt.co.uk/s/assets/010916/images/bt_sport_new_logo.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BT SPORT 2 [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=btsport2&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=btsport2&type=p2p</referer>
+<thumbnail>http://img01.bt.co.uk/s/assets/010916/images/bt_sport_new_logo.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BT SPORT 3 [COLOR red]•[/COLOR][COLOR blue] [/COLOR][/B]</title>
+<sportsdevil>http://streamking.co/player?channel=bteurope&type=p2p</sportsdevil>
+<referer>http://streamking.co/player?channel=bteurope&type=p2p</referer>
+<thumbnail>http://img01.bt.co.uk/s/assets/010916/images/bt_sport_new_logo.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
