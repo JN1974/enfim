@@ -25,6 +25,14 @@
 <jsonrpc>plugin://plugin.video.live.streamspro/</jsonrpc>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RADIO [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<thumbnail>http://s21.postimg.org/vxjx73lxz/icon.png</thumbnail>
+<fanart></fanart>
+<link>http://chupa.mos</link>
+<jsonrpc>plugin://plugin.audio.radio_de</jsonrpc>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Traquinas [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
