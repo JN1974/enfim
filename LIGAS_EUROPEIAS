@@ -10,7 +10,6 @@
 
 
 
-
 **************************************************************************************************************************
 
 
@@ -47,6 +46,34 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
+
+
+<item> 
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR red]•[/COLOR][/B]</title> 
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] ALL SPORTS LIVE [COLOR white] [AGENDA] [/COLOR][COLOR red]•[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.vboxtv.com/wp-content/uploads/2014/07/live-sport-streaming.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] PAKTV SPORTS [COLOR white]  [/COLOR][COLOR red]•[/COLOR][COLOR white] [plugin][/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
+<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</item>
 
 **************************************************************************************************************************
 
@@ -293,21 +320,29 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.247.133.18:8888/ipvt_002</link>
+<link>http://46.234.100.41:8080/arena1/index.m3u8</link>
 <thumbnail>http://www.tvarenasport.com/themes/3way/img/logo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Arena Sport2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://46.234.100.41:8080/arena2/index.m3u8</link>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8</link>
 <thumbnail>http://www.tvarenasport.com/themes/3way/img/logo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8</link>
+<link>http://46.234.100.41:8080/arena3/index.m3u8</link>
 <thumbnail>http://www.tvarenasport.com/themes/3way/img/logo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8</link>
+<link>http://46.234.100.41:8080/arena4/index.m3u8</link>
 <thumbnail>http://www.tvarenasport.com/themes/3way/img/logo.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
@@ -329,13 +364,10 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
-<thumbnail>http://www.silkmedia.ge/upload/sport_universal.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.93.94.133/silk_sport4/index.m3u8</link>
 <thumbnail>http://www.silkmedia.ge/upload/sport_universal.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 
 
@@ -406,38 +438,6 @@
 </regex>
 <thumbnail>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
-
-
-
-<item> 
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR red]•[/COLOR][/B]</title> 
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] ALL SPORTS LIVE [COLOR white] [AGENDA] [/COLOR][COLOR red]•[/COLOR][/B]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.vboxtv.com/wp-content/uploads/2014/07/live-sport-streaming.jpg</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] PAKTV SPORTS [COLOR white]  [/COLOR][COLOR red]•[/COLOR][COLOR white] [plugin][/COLOR][/B]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
-<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
-
-
 
 
 
