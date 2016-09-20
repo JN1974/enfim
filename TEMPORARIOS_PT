@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<channels> 
+<channels>
+
+
+<channel>
+<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTAS MIX[COLOR blue][/COLOR] [/COLOR][/B]</name>
+<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw/2SqhkiEi</externallink>
+</channel>
 
 
 <channel>
@@ -28,14 +37,6 @@
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://pastebin.com/raw/PaF7Wtb1</externallink>
-</channel>
-
-<channel>
-<name>[COLOR green][B][COLOR red]•[/COLOR] CANAIS PT [COLOR salmon] LISTA[COLOR blue]4[/COLOR] [/COLOR][/B]</name>
-<thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-<link>http://fui.me</link>
 <externallink>http://pastebin.com/raw/J7109zqm</externallink>
 </channel>
 
@@ -44,5 +45,5 @@
 <thumbnail>http://s21.postimg.org/bovy3e47r/inspirationlivetv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://pastebin.com/raw/k32asQPK</externallink>
+<externallink></externallink>
 </channel>
