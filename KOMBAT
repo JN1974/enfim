@@ -21,6 +21,20 @@
 
 
 
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Матч! Боец [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=acestream://6706e43f92e9813c911417cd4d69a50bf1cce11d&amp;mode=1&amp;name=Arenavision </link>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+      
+
+
+
+
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BOXING [COLOR red]•[/COLOR] [COLOR red][AV11][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
@@ -82,6 +96,14 @@
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
 </item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FightBox HD [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93&amp;mode=1&amp;name=Arenavision </link>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
 
 
 
