@@ -4,8 +4,20 @@
 
 
 
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] KOM[COLOR red]B[/COLOR]AT SPORT [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BOX & UFC & FIGHT [/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=62&amp;name=%INSPIRATION&amp;url=Boxing%20%26%20Wrestling</jsonrpc>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/50.ts&amp;name=INSPIR@TION</link>
 <link>http://bit.ly/2cJF4rK</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/465.ts&amp;name=INSPIR@TION</link>
@@ -111,25 +123,25 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UFC [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] UFC [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <referer></referer>
@@ -140,7 +152,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UFC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] UFC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -165,7 +177,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Fightv Plus Sports [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] Fightv Plus Sports [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -188,7 +200,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Live Boxing [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] Live Boxing [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -213,7 +225,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Glory Kickboxing [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] Glory Kickboxing [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -236,7 +248,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Pugilism Tv [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] Pugilism Tv [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
@@ -262,7 +274,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] BOXE [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BOXE [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[sxlink]</link>
 <regex>
 <name>sxlink</name>
