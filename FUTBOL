@@ -131,6 +131,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/testxxx7x/290816/2989.ts&amp;name=INSPIR@TION</link>
 <link>http://83.78.191.43:3047/</link>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1721.ts&amp;name=INSPIR@TION</link>
