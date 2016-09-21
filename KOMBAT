@@ -18,7 +18,6 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.44:8000/live/tsubazachaulin/kodiiptv/50.ts&amp;name=INSPIR@TION</link>
 <link>http://bit.ly/2cJF4rK</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/465.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
@@ -41,19 +40,40 @@
 <link>plugin://program.plexus/?url=acestream://6706e43f92e9813c911417cd4d69a50bf1cce11d&amp;mode=1&amp;name=Arenavision </link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-      
 
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FightBox HD [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93&amp;mode=1&amp;name=Arenavision</link>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
 
 
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BOXING [COLOR red]•[/COLOR] [COLOR red][AV11][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BOXING [eventos] [COLOR red]•[/COLOR] [COLOR red][AV11][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
 <page>http://www.arenavision.in/av11</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] UFC [eventos] [COLOR red]•[/COLOR] [COLOR red][AV9][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
@@ -70,20 +90,6 @@
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] UFC FIGHT NIGHT [COLOR red]•[/COLOR] [COLOR red][AV9][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av9</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
 
 
 <item>
@@ -95,7 +101,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] WWE [COLOR red]•[/COLOR] [COLOR red][AV26][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] WWE [eventos] [COLOR red]•[/COLOR] [COLOR red][AV26][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -110,31 +116,14 @@
 </item>
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FightBox HD [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
-<link>plugin://program.plexus/?url=acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93&amp;mode=1&amp;name=Arenavision </link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-
-
-
 
 **************************************************************************************************************************
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] UFC [COLOR red]•[/COLOR][/B]</title>
-<link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
