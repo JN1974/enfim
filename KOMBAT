@@ -124,6 +124,7 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<link>http://31.204.152.6:8081/live/combate/playlist.m3u8</link>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
