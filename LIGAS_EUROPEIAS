@@ -166,21 +166,29 @@
 
 
 
+#EXTINF:0,#EXTINF:0,Sportv 1 (Brasil)
+
+#EXTINF:0,#EXTINF:0,Sportv 2 (Brasil)
+
+#EXTINF:0,#EXTINF:0,Sportv 3 (Brasil)
 
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORTV 1 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8</link>
+<link>http://159.203.182.147:8082/spo124ha/750/playlist.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORTV 2 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8</link>
+<link>http://159.203.182.147:8082/spo224ha/750/playlist.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] SPORTV 3 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8</link>
+<link>http://159.203.182.147:8082/spo324ha/750/playlist.m3u8</link>
 <thumbnail>https://3.bp.blogspot.com/-kwdnr0ayJ94/V3Gi7jlQ9mI/AAAAAAAADHE/7jMq-HVkpAIV6loX0DzcW2-qI5S-jJ79wCLcB/s1600/SporTV1.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
