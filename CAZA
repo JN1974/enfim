@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CANAL+ Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white] OFF/ON [RTMP][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Toros [/COLOR] [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/7.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1680.ts&amp;name=INSPIR@TION</link>
 <link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white] [F4M] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.217.53:8000/live/5grandiptv915/67863345/797.ts&amp;name=INSPIR@TION</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1680.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -57,7 +53,6 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1680.ts&amp;name=INSPIR@TION</link>
 <link>http://bit.ly/2cTwrgy</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
