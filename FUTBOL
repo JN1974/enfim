@@ -238,6 +238,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/Fernando/Fernando/2244.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/342.ts&amp;name=INSPIR@TION</link>
 <link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NVNlNkYQiXVe-R4M7-MO_g&keyt=1473628662 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png</thumbnail>
