@@ -44,6 +44,24 @@
 
 
 <item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV8][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+
+
+<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV14][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
