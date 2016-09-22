@@ -128,19 +128,24 @@
 
 
 
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Esporte Interativo 1 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://prim.ingest.topsportslive-live.adaptive.level3.net/hls-live/topsportslive-live/_definst_/live/stream3.m3u8</link>
+<link>http://topsportslive-live.hls.adaptive.level3.net/hls-live/topsportslive-live/_definst_/live/stream3.m3u8</link>
 <thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/esporte-interativo-online.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Esporte Interativo 2 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://prim.ingest.topsportslive-live.adaptive.level3.net/hls-live/topsportslive2-live/_definst_/live/stream3.m3u8</link>
+<link>http://topsportslive-live.hls.adaptive.level3.net/hls-live/topsportslive2-live/_definst_/live/stream3.m3u8</link>
 <thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/esporte-interativo-online.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Esporte Interativo 3 [COLOR red]•[/COLOR][COLOR blue] [BR][/COLOR][/B]</title>
 <link>http://prim.ingest.topsportslive-live.adaptive.level3.net/hls-live/topsportslive3-live/_definst_/live/stream3.m3u8</link>
+<link>http://topsportslive-live.hls.adaptive.level3.net/hls-live/topsportslive3-live/_definst_/live/stream3.m3u8</link>
+<link>http://esporteinterativ-lh.akamaihd.net/i/esporteinterativo3_1@390562/index_720_av-p.m3u8</link>
 <thumbnail>http://tvonlinegratis1.com/wp-content/uploads/2015/05/esporte-interativo-online.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -317,6 +322,22 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
+<link>rtmp://195.230.24.166/live//898953sport2.stream</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
+<link>rtmp://195.230.24.166/live//898953sport2.stream</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] DIEMA SPORT 2 [COLOR red]•[/COLOR][COLOR blue] [BUL][/COLOR][/B]</title>
 <link>http://130.185.232.92:1234/DiemaSp2.m3u8</link>
@@ -384,14 +405,6 @@
 <thumbnail>http://www.silkmedia.ge/upload/sport_universal.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
