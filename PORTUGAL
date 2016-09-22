@@ -22,6 +22,7 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP 1 [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -44,27 +45,32 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP ÁFRICA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP MEMÓRIA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP MADEIRA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP AÇORES [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -114,14 +120,10 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC Noticias [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/sicnoticias/INSPIR@TION.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC Noticias [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC MULHER[COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -161,13 +163,11 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+<item>
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TVI 24 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8</link>
@@ -276,8 +276,17 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV SUCESSO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://live-15.viewer.dacast.com/i/dclive_1@398006/master.m3u8?hdnea=st=1474497521~exp=1474497641~acl=/i/dclive_1@398006*~hmac=8d0eb938e107951bdb99985746fafd683a74473cd41d18d24a95fcf9d614aa26</link>
+<thumbnail>http://me.mmo.co.mz/wp-content/uploads/2016/06/Tv-Sucesso-Moz-Entretenimento-8.jpg</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
+
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] ARTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8</link>
+<link>http://163.172.40.71/loadbalance/canal-cartoon-network-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDEwOjQ3OjQ2IFBNJmhhc2hfdmFsdWU9QTc4TjYyaUh1ekl1SjRqeXRZREZwZz09JnZhbGlkbWludXRlcz0x</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -573,22 +582,23 @@
 
 
 
-
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] História [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] HISTÓRIA [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
 <regex>
-<name>ip</name>
+<name>get-ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex><regex>
-<name>m3u8</name><expres>ea \+ "(.*?)"</expres>
-<page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/599/399</page>
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rtyuwx1437950475.png</thumbnail>
-</regex>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+</regex>
+</item>
 
 
 
@@ -609,6 +619,9 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
 </regex>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Nat Geo [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
