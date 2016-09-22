@@ -186,12 +186,11 @@
 
 
 
-
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 
@@ -205,6 +204,12 @@
 </item>
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][/B]</title>
+<link>http://83.78.191.43:3063/</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][/B]</title>
@@ -217,7 +222,16 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
+<link>http://83.78.191.43:3049/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv4</sportsdevil>
 <sportsdevil>http://hdfree.tv/live/stv4.php</sportsdevil>
+<referer>http://www.sporttvsonline.net/</referer>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
