@@ -76,9 +76,9 @@
 
 
 
-
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FORMULA1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://cdn.sitenow.me/live/tvb116/chunklist.m3u8</link>
 <link>plugin://program.plexus/?url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&amp;mode=1&amp;name=Arenavision</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/251.ts&amp;name=INSPIR@TION</link>
