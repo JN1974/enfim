@@ -20,7 +20,7 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1156.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/saib/fares/2476.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1720.ts&amp;name=INSPIR@TION</link>
@@ -61,7 +61,7 @@
 
 
 <item>                        
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] OFF</title>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>  
 <sportsdevil>http://www.europeu2016.net/index.php?canal=cmtv</sportsdevil>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
 <referer>http://www.europeu2016.com</referer>
