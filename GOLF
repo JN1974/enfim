@@ -13,6 +13,7 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CANAIS GOLF [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<link>rtmp://185.63.254.71/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDc6MDk6NDQgUE0maGFzaF92YWx1ZT1xaGtKVk1UR1J2N2tsN0hIL0RHZUd3PT0mdmFsaWRtaW51dGVzPTEw playpath=NFCebno5hi_1917 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,209 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embed.php?v=skys4&vw=700&vh=480</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.9.118.115:8000/live/harry/Harry/2952.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3912.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/457.ts&amp;name=INSPIR@TION</link>
@@ -22,13 +23,6 @@
 
 
 
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY SPORT4 [COLOR red]•[/COLOR][COLOR white] [SPORTDEVIL][/COLOR][/B]</title>
-<sportsdevil>http://wizhdsports.to/live/stream24.php</sportsdevil>
-<referer>referer=http://wizhdsports.to/</referer>
-<thumbnail>http://3.bp.blogspot.com/-N-haVmxFcoA/UluIte7duaI/AAAAAAAAA5w/j7WGMf9HbxU/s1600/Sky+Sport+4+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY SPORT4 [COLOR red]•[/COLOR][COLOR white] [SPORTDEVIL][/COLOR][/B]</title>
