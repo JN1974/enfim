@@ -77,11 +77,100 @@
 
 **************************************************************************************************************************
 
+
+
+
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN LA LIGA [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>http://static.88-198-105-90.clients.your-server.de/gc/101001011110010101/1330/exabytetv.m3u8</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN SPORTS LA LIGA [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal1.php</page>
+<referer>http://tumarcador.xyz/canal1.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
 <thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+</regex>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] MOVISTAR PARTIDAZO [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal2.php</page>
+<referer>http://tumarcador.xyz/canal2.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN SPORTS [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal3.php</page>
+<referer>http://tumarcador.xyz/canal3.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] MOVISTAR FUTBOL [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal4.php</page>
+<referer>http://tumarcador.xyz/canal4.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN LA LIGA m+ [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal5.php</page>
+<referer>http://tumarcador.xyz/canal5.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN LA LIGA [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
+<link>$doregex[url]></link>
+<regex>
+<name>url</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal6.php</page>
+<referer>http://tumarcador.xyz/canal6.php</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</regex>
+</item>
 
 
 
@@ -326,14 +415,12 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://195.230.24.166/live//898953sport2.stream</link>
 <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 1 [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] LIG TV 2 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel3.mag250.org:80/live/musaclk/dEjONXUfok/234.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://195.230.24.166/live//898953sport2.stream</link>
 <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/07/lig-tv.gif</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
