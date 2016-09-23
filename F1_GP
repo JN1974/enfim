@@ -71,7 +71,6 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] MOTOGP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://178.156.79.1:9090/play/a01w</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/513.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://www1.iguide.to:1935/iguide playpath=av7woklj9cf5oc2 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -79,9 +78,6 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FORMULA1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://cdn.sitenow.me/live/tvb116/chunklist.m3u8</link>
-<link>plugin://program.plexus/?url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&amp;mode=1&amp;name=Arenavision</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/251.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ukserver.mine.nu/live/SRTgsrtGsRth/YHTYSrYhsrT/308.ts&amp;name=INSPIR@TION</link>
 <link>http://178.156.79.1:9090/play/a028</link>
