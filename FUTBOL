@@ -44,7 +44,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV8][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av8][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -62,7 +62,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV14][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av14][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -78,7 +78,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][AV9][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av9][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -96,7 +96,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOP5][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][sop5][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
@@ -104,7 +104,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOP3][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][sop3][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
@@ -171,7 +171,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] FULL HD[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] full HD[/COLOR][/B]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
@@ -187,7 +187,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [HTTP | RTMP][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
@@ -252,7 +252,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/Fernando/Fernando/2244.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/342.ts&amp;name=INSPIR@TION</link>
 <link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NVNlNkYQiXVe-R4M7-MO_g&keyt=1473628662 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
