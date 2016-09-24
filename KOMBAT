@@ -18,16 +18,11 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
-<link>http://bit.ly/2cJF4rK</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/465.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
-
-
-
-**************************************************************************************************************************
 
 
 
@@ -67,53 +62,6 @@
 </item>
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] UFC [eventos] [COLOR red]•[/COLOR] [COLOR red][AV9][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av9</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] UFC FIGHT NIGHT [COLOR red]•[/COLOR] [COLOR salmon][SOP3][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] WWE [COLOR red]•[/COLOR] [COLOR salmon][SOP10][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262499&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] WWE [eventos] [COLOR red]•[/COLOR] [COLOR red][AV26][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av26</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
 
 
 
