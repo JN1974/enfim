@@ -10,6 +10,112 @@
 
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LA LIGA [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}SPANISH LALIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-v-600x600.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BUNDESLIGA [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}BUNDESLIGA[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/fifa/images/7/73/Bundesliga_Logo.png/revision/latest?cb=20131215160434</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] ITALIA SERIE A [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}ITALIA SERIE A[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>https://4.bp.blogspot.com/-WY2Vnep8cvo/VuW2xwOM8gI/AAAAAAAABjA/uvbtIcOFEe8UySQNRWiqTWBnNhra7WAtg/s1600/LegaSerieAlogoTIM.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] PREMIER LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}PREMIER LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://australianmuslimtimes.com/wp-content/uploads/2014/12/Premier-League.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+
+
 **************************************************************************************************************************
 
 
@@ -76,101 +182,6 @@
 </item>
 
 **************************************************************************************************************************
-
-
-
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN SPORTS LA LIGA [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal1.php</page>
-<referer>http://tumarcador.xyz/canal1.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-</regex>
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] MOVISTAR PARTIDAZO [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal2.php</page>
-<referer>http://tumarcador.xyz/canal2.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN SPORTS [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal3.php</page>
-<referer>http://tumarcador.xyz/canal3.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] MOVISTAR FUTBOL [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal4.php</page>
-<referer>http://tumarcador.xyz/canal4.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN LA LIGA m+ [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal5.php</page>
-<referer>http://tumarcador.xyz/canal5.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BEIN LA LIGA [COLOR red]•[/COLOR][COLOR blue] [ESP][/COLOR][/B]</title>
-<link>$doregex[url]></link>
-<regex>
-<name>url</name>
-<expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/canal6.php</page>
-<referer>http://tumarcador.xyz/canal6.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-</regex>
-<thumbnail>http://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</regex>
-</item>
 
 
 
