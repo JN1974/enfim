@@ -10,8 +10,12 @@
 
 
 
+
+
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LA LIGA [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LA LIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -37,7 +41,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BUNDESLIGA [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BUNDESLIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -63,7 +67,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] ITALIA SERIE A [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] ITALIA SERIE A [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -89,7 +93,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] PREMIER LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] PREMIER LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -115,8 +119,41 @@
 
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGUE1 [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}FRENCH LIGUE1[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/fifa14/images/f/f6/Ligue_1_Logo.png/revision/latest?cb=20130603161315</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+
+
 
 **************************************************************************************************************************
+
+
+
+
+
 
 
 <item>
