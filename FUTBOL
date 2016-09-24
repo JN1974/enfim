@@ -7,6 +7,30 @@
 
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIFA WORLD CUP [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}FIFA WORLD CUP[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/2018_FIFA_World_Cup_logo.png/revision/latest?cb=20141103234136</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
 
 
 
@@ -16,7 +40,62 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [Agenda] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UEFA CHAMPIONS LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}UEFA CHAMPIONS LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>http://www.logo-world.net/wp-content/uploads/Conf%C3%A9d%C3%A9rations/UEFA/UEFA-Ligue-des-Champions2.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UEFA EUROPA LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://www.arenavision.in/AV[makelist.param4]</page>
+            <referer>http://www.arenavision.in</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,44}182px">(.*?)CET[\w\W\s]{0,109}UEFA EUROPA LEAGUE[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/Uefa_europa_league_logo_20152018.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
+
+
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -43,78 +122,10 @@
 
 
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av8][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av8</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
-
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av14][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av14</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av15][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av15</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
-
-
-
-
-
 
 
 **************************************************************************************************************************
 
-
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] full HD[/COLOR][/B]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>file: "([^\"].*)"</expres>
-<page>http://widestream.io/embed-57</page>
-<referer>http://widestream.io/</referer>
-</regex>
-<thumbnail>https://www.thelogodb.com/images/media/logo/urqtvs1436898824.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</item>
 
 
 
@@ -135,15 +146,13 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
-<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
-<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil>
-<sportsdevil>http://hdfree.tv/live/stv1.php</sportsdevil>
-<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil>
+<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
+<sportsdevil>http://hdfree.tv/live/stv1.php</sportsdevil>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
 <sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
-<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv3</sportsdevil>
 <sportsdevil>http://www.tvdesporto.info/sporttv.php</sportsdevil>
 <sportsdevil>http://hdfree.tv/live/stv1.php</sportsdevil>
 <referer>wizhdsports.to</referer>
@@ -156,11 +165,23 @@
 </item>
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green][COLOR green] Sport TV1 [COLOR red]•[/COLOR][COLOR white] full HD[/COLOR][/B]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://widestream.io/embed-57</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<thumbnail>https://www.thelogodb.com/images/media/logo/urqtvs1436898824.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</item>
 
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
@@ -168,7 +189,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv2-2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
@@ -178,14 +199,14 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://83.78.191.43:3063/</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
+<link>rtmp://185.63.254.69/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE2IDU6NTA6MzYgUE0maGFzaF92YWx1ZT1Lamx4d2FGV3Z0a05hcUlvdi9kZ0ZBPT0mdmFsaWRtaW51dGVzPTEw playpath=Mnthnc9Pzr_3932 swfUrl=http://www.bigcast.us/myplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,192 live=1 timeout=15 pageUrl=http://www.bigcast.us/embedhd.php?v=stv3&vw=650&vh=390</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/live/stv3.php</sportsdevil>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>https://www.thelogodb.com/images/media/logo/twyypw1436898859.png/</thumbnail>
@@ -194,16 +215,17 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://83.78.191.43:3049/</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
+<link>rtmp://185.63.254.67/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE2IDU6NTI6MDEgUE0maGFzaF92YWx1ZT1taExMODhQZ3ZhV3VtWGVFQThiSGRnPT0mdmFsaWRtaW51dGVzPTEw playpath=yhl3rOmJcn_4447 swfUrl=http://www.bigcast.us/myplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,192 live=1 timeout=15 pageUrl=http://www.bigcast.us/embedhd.php?v=stv4&vw=650&vh=390</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
-<sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv4</sportsdevil>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/live/stv4.php</sportsdevil>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv4</sportsdevil>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv3</sportsdevil>
 <referer>http://www.sporttvsonline.net/</referer>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
@@ -226,9 +248,9 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NVNlNkYQiXVe-R4M7-MO_g&keyt=1473628662 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/Fernando/Fernando/2244.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/342.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NVNlNkYQiXVe-R4M7-MO_g&keyt=1473628662 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </item>
@@ -236,7 +258,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BTV [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
 <sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
