@@ -31,7 +31,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [OFF-TEST][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -91,14 +91,13 @@
 </regex>
 </item>
 
-
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av9][/B][/COLOR]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][av15][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av9</page>
+<page>http://www.arenavision.in/av15</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
@@ -106,27 +105,6 @@
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
 </item>
-
-
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][sop5][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262494&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][sop3][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</item>
-
-
-
 
 
 
