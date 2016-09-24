@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FIFA WORLD CUP [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIFA WORLD CUP [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -40,7 +40,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UEFA CHAMPIONS LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] UEFA CHAMPIONS LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -67,7 +67,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] UEFA EUROPA LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] UEFA EUROPA LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -95,7 +95,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
