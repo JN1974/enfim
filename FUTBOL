@@ -26,8 +26,12 @@
 
 
 
+
+
+
+
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [TEST][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGA NOS [COLOR red]•[/COLOR][COLOR white] [OFF-TEST][/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
