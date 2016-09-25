@@ -115,8 +115,6 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 </regex>
 
-
-
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SIC Noticias [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/sicnoticias/INSPIR@TION.m3u8</link>
@@ -232,7 +230,6 @@
 
 
 
-
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Porto Canal [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
@@ -305,20 +302,7 @@
 <thumbnail>http://www.lisbonemotions.com/files/fatima1.jpg</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] TV GLOBO [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex><name>m3u8</name>
-<expres>file: '([^']*)</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=315&amp;width=640&amp;height=360&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/boboms.php?width=640&amp;height=360</referer>
-</regex><regex><name>page</name>
-<expres>file='([^']*)</expres>
-<page>http://ekostreams.co/ch/boboms.php?width=640&amp;height=360</page>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-</item>
+
 
 
 <item>
@@ -428,7 +412,7 @@
 <accept>*/*; q=0.01</accept>
 </includeheaders>
 </regex>
-<thumbnail>https://www.filmon.com/tv/cbs-drama</thumbnail>
+<thumbnail>http://www.tvsa.co.za/images/uploads/thumbs/0050274.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
@@ -437,7 +421,6 @@
 <link>http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8</link>
 <thumbnail>http://www.onlinetvler.com/sites/default/files/styles/logo/public/logo/world-travel-channel.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
-
 
 
 
@@ -475,9 +458,17 @@
 <page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png</thumbnail>
 </regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] AXN White [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>rtmp://31.220.40.60:1935/privatestream playpath=axnwh?keys=rwcTJVUGCxGDFOJvEOxE0g&keyt=1461369580 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=golf8&width=800&height=600</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FOX [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -684,6 +675,24 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] PRAIA VILAMOURA [COLOR red]•[/COLOR][COLOR white] [CAM] [/COLOR][/B]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8</link>
 <thumbnail>http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] NASA TV Media Channel HD [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8</link>
+<thumbnail>http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] NASA TV [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] NASA TV [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
