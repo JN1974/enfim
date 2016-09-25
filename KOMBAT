@@ -31,22 +31,6 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Матч! Боец [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
-<link>plugin://program.plexus/?url=acestream://6706e43f92e9813c911417cd4d69a50bf1cce11d&amp;mode=1&amp;name=Arenavision </link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] FightBox HD [COLOR red]•[/COLOR][COLOR red] [PLEXUL] [/COLOR][/B]</title>
-<link>plugin://program.plexus/?url=acestream://4d851afc7c2f9e966ee3dc02bb7bf8c4b6f13e93&amp;mode=1&amp;name=Arenavision</link>
-<thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart></item>
-
-
-
-
-<item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] BOXING [eventos] [COLOR red]•[/COLOR] [COLOR red][AV11][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
@@ -65,7 +49,7 @@
 
 
 
-**************************************************************************************************************************
+=====================================================================================================================
 
 
 
@@ -73,9 +57,10 @@
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <link>http://31.204.152.6:8081/live/combate/playlist.m3u8</link>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s10.postimg.org/d8os1jyzd/ufc_tv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
 
 
 <item>
