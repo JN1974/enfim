@@ -12,8 +12,10 @@
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/live/stv4.php</sportsdevil>
+<sportsdevil>http://wizhdsports.be/live/stream24.php</sportsdevil>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv4</sportsdevil>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.sporttvsonline.net/index.php?canal=sporttv4</referer>
 <referer>http://www.sporttvsonline.net/</referer>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
