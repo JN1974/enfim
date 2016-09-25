@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LA LIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LA LIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1Hora-Madrid)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -41,7 +41,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BUNDESLIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] BUNDESLIGA [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1Hora-Madrid)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -67,7 +67,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] ITALIA SERIE A [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] ITALIA SERIE A [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1Hora-Madrid)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -93,7 +93,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] PREMIER LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] PREMIER LEAGUE [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1Hora-Madrid)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -120,7 +120,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGUE1 [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1 Hora)[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lightslategray] LIGUE1 [COLOR red]•[/COLOR][COLOR white] [Agenda] (fuso +1Hora-Madrid)[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -192,7 +192,7 @@
 
 
 <item> 
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR red]•[/COLOR][/B]</title> 
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] [Agenda] [/COLOR][/B]</title> 
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
@@ -201,7 +201,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] ALL SPORTS LIVE [COLOR white] [AGENDA] [/COLOR][COLOR red]•[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR yellow] ALL SPORTS LIVE [COLOR red]•[/COLOR] [COLOR white] [Agenda] [/COLOR][/B]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://www.vboxtv.com/wp-content/uploads/2014/07/live-sport-streaming.jpg</thumbnail>
