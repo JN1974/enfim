@@ -14,10 +14,9 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CAZA|PESCA & FISH TV[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CAZA|PESCA [/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/346.ts&amp;name=INSPIR@TION</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1707.ts&amp;name=INSPIR@TION</link>
-<link>http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/INSPIR@TION.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -26,18 +25,19 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>http://bit.ly/2cTwrgy</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/794.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
-
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.194.243:8000/live/app/channel/7.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://31.220.0.187/privatestream/ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
-<thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] FISH TV [/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/INSPIR@TION.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
+
+
+
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Ultimate Outdoors [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -71,4 +71,10 @@
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
+<item>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [off/on] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.194.243:8000/live/app/channel/7.ts&amp;name=INSPIR@TION</link>
+<link>rtmp://31.220.0.187/privatestream/ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
