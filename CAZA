@@ -23,6 +23,7 @@
 
 
 
+
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>http://bit.ly/2cTwrgy</link>
@@ -32,8 +33,8 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [OFF/ON][/COLOR][/B]</title>
-<link>http://88.18.13.77:8888/udp/239.0.5.6:8208</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.194.243:8000/live/app/channel/7.ts&amp;name=INSPIR@TION</link>
 <link>rtmp://31.220.0.187/privatestream/ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
