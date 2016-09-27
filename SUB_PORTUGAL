@@ -1,49 +1,141 @@
-<layouttype>thumbnail</layouttype>
- 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
 <channels>
-
 <channel>
-<name>[COLOR lime][B][I] PACOTE BASICO [/COLOR][COLOR white] [PT] [/I][/B][/COLOR]</name>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PACOTE BASICO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/j6nmcnc9j/image.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PACOTE BASICO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/j6nmcnc9j/image.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/F4P5a9</externallink>
-<fanart>http://downloadwallpaperhd.com/wp-content/uploads/2013/03/Dirty-Portugal-Flag.jpg</fanart>
-</channel>
+</item>
 
 
+
+=====================================================================================================================
+
+
+
+
+<channels>
 <channel>
-<name>[COLOR lime][B][I] LISTAS TEMP [/COLOR][COLOR white]  [/I][/B][/COLOR]</name>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LISTAS TEMP MIX [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/ajf0cdntj/listasiptv.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LISTAS TEMP MIX [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/ajf0cdntj/listasiptv.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/bh08bh</externallink>
-<fanart>http://downloadwallpaperhd.com/wp-content/uploads/2013/03/Dirty-Portugal-Flag.jpg</fanart>
-</channel>
+</item>
 
+
+
+=====================================================================================================================
+
+
+
+<channels>
 <channel>
-<name>[COLOR lime][B][I] INFANTIS[/I][/B][/COLOR]</name>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] INFANTIS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/h4n4yeeaf/kids.png</thumbnail>
-<fanart>https://wallpaperscraft.com/image/stickers_style_jdm_94312_1920x1080.jpg</fanart>
-<externallink>https://goo.gl/4iQWdi</externallink>
-</channel>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] INFANTIS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/h4n4yeeaf/kids.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/bh08bh</externallink>
+</item>
 
 
+
+=====================================================================================================================
+
+
+
+
+<channels>
 <channel>
-<name>[COLOR lime][B][I] CAÇA & TOROS[/I][/B][/COLOR]</name>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] CAÃ‡A & TOROS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/ck0yjgul3/caza.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] CAÃ‡A & TOROS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/ck0yjgul3/caza.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/u7q9dr</externallink>
-<fanart>http://s32.postimg.org/qjbu4kzk5/CASAS_RUBIAS.jpg</fanart>
-</channel>
+</item>
 
+
+
+=====================================================================================================================
+
+
+
+
+<channels>
 <channel>
-<name>[COLOR lime][B][I] NOTICIAS[/COLOR][COLOR red] MUNDO[/I][/B][/COLOR]</name>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] NOTICIAS NO MUNDO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/joirsi1uf/noticiasworld.png</thumbnail>
-<externallink>https://goo.gl/r7Uvbu</externallink>
-<fanart>http://s32.postimg.org/46b66jeo5/3dlogo120601.png</fanart>
-</channel>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
 
-
-<channel>
-<name>[COLOR lime][B][I] ISTO SO VIDEO[/I][/B][/COLOR]</name>
-<thumbnail>http://s21.postimg.org/3rjzvs9g7/humor.png</thumbnail>
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] NOTICIAS NO MUNDO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/joirsi1uf/noticiasworld.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/WYMkSu</externallink>
-<fanart>http://s32.postimg.org/4qj4kgrut/Vamos_Rir.jpg</fanart>
-</channel>
+</item>
+
+
+
+=====================================================================================================================
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] ISTO SO VIDEO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/3rjzvs9g7/humor.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] ISTO SO VIDEO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/3rjzvs9g7/humor.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/WYMkSu</externallink>
+</item>
+
+
+
+=====================================================================================================================
+
 
