@@ -3,16 +3,18 @@
 
 <channels>
 <channel>
-<name> [COLOR turquoise][I]Agenda de jogos/Canais[/I][/COLOR] </name>
-<thumbnail>https://s20.postimg.org/479ik7vbx/Sem_T_tulo.png</thumbnail>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PORTUGAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/hmgel7vmf/canaispt.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 </subitem>
 </item>
 
 <item>
-<title>[COLOR turquoise] [I]Agenda de jogos/Canais[/I] [/COLOR] </title>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PORTUGAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <link>http://ignorame</link>
-<thumbnail>https://s20.postimg.org/479ik7vbx/Sem_T_tulo.png</thumbnail>
-<externallink>http://pastebin.com/raw/5mYLJTkj</externallink>
+<thumbnail>http://s21.postimg.org/hmgel7vmf/canaispt.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/qCjzdB</externallink>
 </item>
 
 
