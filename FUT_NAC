@@ -11,35 +11,16 @@
 </subitem>
 </item>
 
-<item>
-<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FUTEBOL NACIONAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
-<link>https://goo.gl/Gblj5y</link>
-<thumbnail>http://s21.postimg.org/gbf4jixnb/futebol.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-<externallink>https://goo.gl/Gblj5y</externallink>
-</item>
+<channels> 
 
 
-
-=====================================================================================================================
-
-
-
-<channels>
 <channel>
-<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] INFO. DESPORTIVA [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
-<thumbnail>http://s21.postimg.org/62mndp9lj/info_desport.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</subitem>
-</item>
-
-<item>
-<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] INFO. DESPORTIVA [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FUTEBOL NACIONAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/gbf4jixnb/futebol.png</thumbnail>
+<fanart>http://s21.postimg.org/c6w5gd047/futeboltotal.jpg</fanart>
 <link>http://fui.me</link>
-<thumbnail>http://s21.postimg.org/62mndp9lj/info_desport.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-<externallink>https://goo.gl/8hXJRZ</externallink>
-</item>
+<externallink>https://goo.gl/Gblj5y</externallink>
+</channel>
 
 
 
@@ -47,94 +28,50 @@
 
 
 
-<channels>
+
+<channel>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] INFO. DESPORTIVA [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/62mndp9lj/info_desport.png</thumbnail>
+<fanart>http://b.vimeocdn.com/ts/184/693/184693946_640.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://goo.gl/8hXJRZ</externallink>
+</channel>
+
+
 <channel>
 <name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LIGAS [COLOR salmon]+[/COLOR] UEFA [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/9ar4qqvvb/ligas_Euro.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</subitem>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] LIGAS [COLOR salmon]+[/COLOR] UEFA [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<fanart>http://s21.postimg.org/y7fszoic7/European_leagues.jpg</fanart>
 <link>http://fui.me</link>
-<thumbnail>http://s21.postimg.org/9ar4qqvvb/ligas_Euro.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/VwZpxZ</externallink>
-</item>
+</channel>
 
 
-
-=====================================================================================================================
-
-
-
-
-<channels>
 <channel>
-<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] F1 | MOTOGP  [COLOR salmon][/COLOR]  [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
-<thumbnail>http://s21.postimg.org/9ar4qqvvb/ligas_Euro.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</subitem>
-</item>
-
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] F1 | MOTOGP  [COLOR salmon][/COLOR]  [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
-<link>http://fui.me</link>
-<thumbnail>http://s21.postimg.org/9ar4qqvvb/ligas_Euro.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] F1 | MOTOGP [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/y5amktgpj/moto.png</thumbnail>
+<fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
 <externallink>https://goo.gl/sT8Nc7</externallink>
-</item>
+<info>Canais MOROTIZADOS</info>
+</channel>
 
 
-
-=====================================================================================================================
-
-
-
-
-<channels>
 <channel>
-<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] COMBATE [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] COMBATE [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/sv5ntiwgn/kombate.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</subitem>
-</item>
-
-<item>
-<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] COMBATE [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
-<link>http://fui.me</link>
-<thumbnail>http://s21.postimg.org/sv5ntiwgn/kombate.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<fanart>http://oboi-colibri.ru/wp-content/uploads/2014/06/boech.jpg</fanart>
 <externallink>https://goo.gl/hwUuzY</externallink>
-</item>
+<info>Listas Canais DE VARIAS MODALIDDES DE KOMBATE</info>
+</channel>
 
 
-
-=====================================================================================================================
-
-
-
-
-<channels>
 <channel>
-<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] GOLF [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
-<thumbnail>http://s21.postimg.org/sv5ntiwgn/kombate.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
-</subitem>
-</item>
-
-<item>
-<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] GOLF [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
-<link>http://fui.me</link>
+<name>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] GOLF [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
 <thumbnail>http://s21.postimg.org/cy6vwt42f/golf.png</thumbnail>
-<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
 <externallink>https://goo.gl/i2Evca</externallink>
-</item>
-
-
-
-=====================================================================================================================
+<fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
+<info>Canais de GOLF</info>
+</channel>
 
 
 
