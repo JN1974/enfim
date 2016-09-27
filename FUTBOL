@@ -57,7 +57,7 @@
 <listrepeat><![CDATA[
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION$$lsname=Sport tv1 - [makelist.param3] - AV</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
@@ -84,7 +84,7 @@
 <listrepeat><![CDATA[
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION$$lsname=Sport tv1 - [makelist.param3] - AV</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
@@ -112,7 +112,7 @@
 <listrepeat><![CDATA[
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [COLOR white][makelist.param1] - [COLOR gold][makelist.param2] - [COLOR white][makelist.param3] - (INSPIR@TION - Av [makelist.param4]) [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION$$lsname=Sport tv1 - [makelist.param3] - AV</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION - [makelist.param3] - AV</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
