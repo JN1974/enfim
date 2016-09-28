@@ -2,10 +2,9 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Toros [/COLOR] [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://37.187.128.169:8000/live/app/channel/11.ts</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/7.ts&amp;name=INSPIR@TION</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1680.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/7.ts&amp;name=INSPIR@TIONF4M Opc1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1680.ts&amp;name=INSPIR@TIONF4M Opc2</link>
+<link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swfF4M Opc3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -15,8 +14,8 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CAZA|PESCA [/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/346.ts&amp;name=INSPIR@TION</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1707.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/346.ts&amp;name=INSPIR@TION$$lsname=F4M Opc1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.205.91:8081/live/newaboo/pRk5z6tACy/1707.ts&amp;name=INSPIR@TION$$lsname=F4M Opc2</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -25,7 +24,7 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/794.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.soeu.ws:8000/live/pedro/pedro/216.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -73,7 +72,6 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [off/on] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.194.243:8000/live/app/channel/7.ts&amp;name=INSPIR@TION</link>
 <link>rtmp://31.220.0.187/privatestream/ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
