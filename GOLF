@@ -1,21 +1,20 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [f4m][/COLOR][/B]</title>
-<link>rtmp://185.63.254.67/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE2IDU6NTI6MDEgUE0maGFzaF92YWx1ZT1taExMODhQZ3ZhV3VtWGVFQThiSGRnPT0mdmFsaWRtaW51dGVzPTEw playpath=yhl3rOmJcn_4447 swfUrl=http://www.bigcast.us/myplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,192 live=1 timeout=15 pageUrl=http://www.bigcast.us/embedhd.php?v=stv4&vw=650&vh=390</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1160.ts&amp;name=INSPIR@TION</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/791.ts&amp;name=INSPIR@TION</link>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>rtmp://185.63.254.67/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDE2IDU6NTI6MDEgUE0maGFzaF92YWx1ZT1taExMODhQZ3ZhV3VtWGVFQThiSGRnPT0mdmFsaWRtaW51dGVzPTEw playpath=yhl3rOmJcn_4447 swfUrl=http://www.bigcast.us/myplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,192 live=1 timeout=15 pageUrl=http://www.bigcast.us/embedhd.php?v=stv4&vw=650&vh=390$$lsname=RTMP Opc1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1160.ts&amp;name=INSPIR@TION$$lsname=RTMP Opc2</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [sportdevil-p2p] [/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR green] Sport TV4 [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/live/stv4.php</sportsdevil>
 <sportsdevil>http://wizhdsports.be/live/stream24.php</sportsdevil>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv4</sportsdevil>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv3</sportsdevil>
-<referer>http://www.sporttvsonline.net/index.php?canal=sporttv4</referer>
+<referer>http://www.sporttvsonline.net/index.php?canal=sporttv4$$lsname=SportDevil</referer>
 <referer>http://www.sporttvsonline.net/</referer>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
@@ -26,11 +25,10 @@
 
 <item>
 <title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] CANAIS GOLF [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-<link>rtmp://185.63.254.71/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDc6MDk6NDQgUE0maGFzaF92YWx1ZT1xaGtKVk1UR1J2N2tsN0hIL0RHZUd3PT0mdmFsaWRtaW51dGVzPTEw playpath=NFCebno5hi_1917 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,209 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embed.php?v=skys4&vw=700&vh=480</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3912.ts&amp;name=INSPIR@TION</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/457.ts&amp;name=INSPIR@TION</link>
-<link>rtmp://31.220.40.63:1935/privatestream playpath=golf8?keys=zmbsoAoFT1FtYVt66VzRSw&keyt=1460720380 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=golf8&width=800&height=600</link>
+<link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104$$lsname=HTTP Opc1</link>
+<link>rtmp://185.63.254.71/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDc6MDk6NDQgUE0maGFzaF92YWx1ZT1xaGtKVk1UR1J2N2tsN0hIL0RHZUd3PT0mdmFsaWRtaW51dGVzPTEw playpath=NFCebno5hi_1917 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2022,0,0,209 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embed.php?v=skys4&vw=700&vh=480$$lsname=RTMP Opc2</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/457.ts&amp;name=INSPIR@TION$$lsname=F4M Opc3</link>
+<link>rtmp://31.220.40.63:1935/privatestream playpath=golf8?keys=zmbsoAoFT1FtYVt66VzRSw&keyt=1460720380 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=golf8&width=800&height=600$$lsname=RTMP Opc4</link>
 <fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
 <fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart></item>
 
@@ -38,7 +36,7 @@
 
 
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY SPORT4 [COLOR red]•[/COLOR][COLOR white] [SPORTDEVIL][/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR][COLOR lime] SKY SPORT4 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
